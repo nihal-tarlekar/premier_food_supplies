@@ -1,0 +1,383 @@
+.centered {
+    float: none;
+    margin: 100px auto
+}
+
+.form-group {
+    position: relative
+}
+
+.form-group .palceholder {
+    position: absolute;
+    top: 7px;
+    left: 8px;
+    color: #898989;
+    display: none
+}
+
+.form-group label {
+    font-wight: normal;
+    color: #898989;
+    font-weight: 500
+}
+
+.star {
+    color: red;
+    margin-left: -1%
+}
+
+.tab {
+    overflow: hidden
+}
+
+.form-group {
+    margin-bottom: 0!important
+}
+
+.tab button {
+    background-color: #f1f1f1;
+    float: left;
+    border: none;
+    outline: 0;
+    cursor: pointer;
+    padding: 5px 50px;
+    transition: .3s;
+    font-size: 17px;
+    margin-right: 3%;
+    font-family: tajawalregular
+}
+
+.tab button:hover {
+    background-color: #ddd
+}
+
+.tab button.active {
+    background-color: #ccc
+}
+
+.tabcontent {
+    display: none;
+    padding: 6px 12px;
+    -webkit-animation: fadeEffect 1s;
+    animation: fadeEffect 1s
+}
+
+@-webkit-keyframes fadeEffect {
+    from {
+        opacity: 0
+    }
+    to {
+        opacity: 1
+    }
+}
+
+@keyframes fadeEffect {
+    from {
+        opacity: 0
+    }
+    to {
+        opacity: 1
+    }
+}
+
+.nav-tabs>li:hover,
+.nav-tabs>li>a:focus,
+.nav-tabs>li>a:hover {
+    color: #fff!important;
+    cursor: default;
+    background-color: #a3a4a5!important;
+    border: 1px solid #a3a4a5!important;
+    font-family: tajawalregular
+}
+
+.nav-tabs>li {
+    float: left;
+    margin-bottom: -1px;
+    border: 1px solid #a3a4a5;
+    margin-right: 4%;
+    font-family: tajawalregular
+}
+
+.nav>li>a {
+    padding: 1px 36px!important
+}
+
+.nav-tabs>li>a {
+    margin-right: 2px;
+    line-height: 1.42857143;
+    border: 1px solid transparent;
+    border-radius: 4px 4px 0 0;
+    font-size: 18px;
+    text-transform: uppercase
+}
+
+.nav-tabs {
+    border-bottom: 0 solid #ddd!important;
+    padding-bottom: 4%;
+    font-family: tajawalregular!important
+}
+
+.nav-tabs>li>a {
+    margin-right: 0!important;
+    line-height: 1.42857143;
+    border: 1px solid transparent;
+    border-radius: 0!important;
+    color: #000!important
+}
+
+#contactus fieldset {
+    width: 320px;
+    padding: 20px;
+    border: 1px solid #ccc;
+    -moz-border-radius: 10px;
+    -webkit-border-radius: 10px;
+    -khtml-border-radius: 10px;
+    border-radius: 10px
+}
+
+#contactus legend,
+h2 {
+    font-family: tajawalregular;
+    font-size: 1.3em;
+    font-weight: 700;
+    color: #333
+}
+
+#contactus label {
+    font-family: tajawalregular;
+    font-size: 14px;
+    padding-left: 0
+}
+
+#contactus input[type=text],
+textarea {
+    font-family: tajawalregular;
+    font-size: .8em;
+    line-height: 140%;
+    color: #afafaf;
+    padding: 3px;
+    border: 1px solid #999;
+    -moz-border-radius: 5px;
+    -webkit-border-radius: 5px;
+    -khtml-border-radius: 5px;
+    border-radius: 5px;
+    padding: 1.3%
+}
+
+#contactus input[type=text] {
+    height: 18px;
+    width: 220px;
+    color: #afafaf;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    border-radius: 5px
+}
+
+#contactus #scaptcha {
+    width: 60px;
+    height: 18px
+}
+
+#contactus input[type=submit] {
+    width: 104px;
+    height: 30px;
+    padding-left: 0;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    border-radius: 0;
+    border: #a6ce39;
+    background: #a6ce39;
+    text-transform: uppercase;
+    color: #000;
+    font-size: 16px;
+    font-family: tajawalmedium
+}
+
+input[type=file] {
+    display: block;
+    text-transform: uppercase;
+    color: #afafaf;
+    font-size: 16px;
+    font-family: tajawalmedium
+}
+
+#contactus textarea {
+    height: 70px;
+    width: 60%;
+    -webkit-border-radius: 8px;
+    -moz-border-radius: 8px;
+    border-radius: 1px;
+    font-family: tajawalregular;
+    font-size: 14px;
+    color: #afafaf
+}
+
+#contactus input[type=text]:focus,
+textarea:focus {
+    color: #009;
+    border: 1px solid #900;
+    background-color: #fff;
+    font-weight: 700;
+    font-family: tajawalregular
+}
+
+#contactus input[type=email]:focus,
+email:focus {
+    color: #009;
+    border: 1px solid #900;
+    background-color: #ff9;
+    font-weight: 700;
+    font-family: tajawalregular
+}
+
+#contactus .container {
+    margin-top: 8px;
+    margin-bottom: 10px
+}
+
+/*
+#contactus .error {
+    font-family: tajawalregular;
+    font-size: .7em;
+    color: #900;
+    background-color: #ff0
+}
+*/
+#contactus .error {
+    font-family: tajawalregular;
+width: 100%;
+    margin-top: .25rem;
+    font-size: 80%;
+    color: #dc3545;
+}
+
+#contactus fieldset#antispam {
+    padding: 2px;
+    border-top: 1px solid #eee;
+    border-left: 0;
+    border-right: 0;
+    border-bottom: 0;
+    width: 350px
+}
+
+#contactus fieldset#antispam legend {
+    font-family: tajawalregular;
+    font-size: .8em;
+    font-weight: 700;
+    color: #333
+}
+
+#contactus .short_explanation {
+    font-family: tajawalregular;
+    font-size: .9em;
+    color: #333
+}
+
+#contactus .spmhidip {
+    display: none;
+    width: 10px;
+    height: 3px
+}
+
+#fg_crdiv {
+    font-family: tajawalregular;
+    font-size: .3em;
+    opacity: .2;
+    -moz-opacity: .2
+}
+
+#fg_crdiv p {
+    display: none
+}
+
+#contactus input[type=text] {
+    height: 40px;
+    width: 60%;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    border-radius: 0;
+    border: 1px solid #afafaf;
+    font-family: tajawalregular;
+    font-size: 14px;
+    padding: 1.3%
+}
+
+#contactus input[type=url] {
+    height: 40px;
+    width: 60%;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    border-radius: 0;
+    border: 1px solid #afafaf;
+    font-family: tajawalregular;
+    font-size: 14px;
+    padding: 1.3%
+}
+
+#contactus input[type=tel] {
+    height: 40px;
+    width: 60%;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    border-radius: 0;
+    border: 1px solid #afafaf;
+    font-family: tajawalregular;
+    font-size: 14px;
+    padding: 1.3%
+}
+
+#contactus input[type=email] {
+    height: 40px;
+    width: 60%;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    border-radius: 0;
+    border: 1px solid #afafaf;
+    font-family: tajawalregular;
+    font-size: 14px;
+    padding: 1.3%
+}
+
+#contactus input[type=email]:span {
+    color: #630406;
+    background: #ddd
+}
+
+.smt-btn {
+    background: #a6ce39;
+    text-transform: uppercase;
+    color: #000;
+    font-size: 16px;
+    font-family: tajawalmedium
+}
+
+.contact {
+    padding-top: 2%;
+    background: #f7f7f7;
+    padding-bottom: 3%
+}
+
+.contact-title {
+    font-family: merriweatherregular;
+    color: #000;
+    font-size: 30px;
+    text-align: center;
+    padding-top: 4%;
+    padding-bottom: 2%
+}
+
+.btn.btn-outline-primary {
+    font-family: tajawalregular;
+    font-size: 18px;
+    background-color: #a6ce39;
+    color: #fff;
+    border-color: #a6ce39;
+    border-radius: 0;
+    margin-left: 45%
+}
+
+.btn.btn-outline-primary:hover {
+    background-color: #02489b;
+    border-color: #02489b;
+    color: #fff
+}

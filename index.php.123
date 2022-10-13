@@ -1,0 +1,833 @@
+<!DOCTYPE html>
+<html class="no-js" lang="en"><head>
+	<meta content="charset=utf-8">
+	<meta http-equiv="cache-control" content="no-cache">
+	<meta http-equiv="expires" content="0">
+	<meta http-equiv="pragma" content="no-cache">
+	<meta name="viewport" content="width=device-width; initial-scale=1.0">
+	<title>Premier Food Supplies: South Asian Grocery Distribution</title>
+    <link rel="stylesheet" href="fonts/stylesheet.css" type="text/css">
+    <link rel="stylesheet" href="asset/bootstrap/bootstrap4.css">
+	<link rel="stylesheet" href="asset/custom.css">
+	<link rel="stylesheet" href="asset/responsive.css" type="text/css">
+	<link rel="shortcut icon" href="images/favicon.ico" type="image/x-icon">
+	
+</head>
+<body class="loading">
+<!--navigation-->
+<div class="navbar navbar-expand-lg navbar-light bg-light" id="navbar">
+  <a class="navbar-brand"  href="http://premierfoodsupplies.com/"><img src="images/logo-1.png" alt="logo" id="navbar-brand-img" class="img-fluid brand-name"></a>
+  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+    <span class="navbar-toggler-icon"></span>
+  </button>
+  <div class="collapse navbar-collapse" id="navbarNav">
+    <ul class="navbar-nav ml-auto">
+      <li class="nav-item active">
+       <a class="nav-link" href="http://premierfoodsupplies.com/">Home</a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" href="http://premierfoodsupplies.com/#about-us">About Us</a>
+      </li>
+	  <li class="nav-item">
+       <a class="nav-link" href="http://premierfoodsupplies.com/#partner-us">Partner with Us</a>
+      </li>
+      <li class="nav-item">
+       <a class="nav-link" href="http://premierfoodsupplies.com/#our-brands">Our Brands</a>
+      </li>
+	  <li class="nav-item">
+			<a class="nav-link" href="http://premierfoodsupplies.com/contactform.php">Contact Us</a>
+		  </li>
+    </ul>
+  </div>
+</div>
+<!--
+	
+<div id="carouselExampleIndicators home" class="carousel slide" data-ride="carousel">
+  <ol class="carousel-indicators">
+    <li data-target="#carouselExampleIndicators" data-slide-to="0" class="active"></li>
+    <li data-target="#carouselExampleIndicators" data-slide-to="1"></li>
+    <li data-target="#carouselExampleIndicators" data-slide-to="2"></li>
+	 <li data-target="#carouselExampleIndicators" data-slide-to="3"></li>
+  </ol>
+  <div class="carousel-inner">
+    <div class="carousel-item active">
+     <img class=" img-fluid" src="images/Premier-Banners-A.jpg" alt="First slide">
+		<div class="carousel-caption">
+			<img src="images/a.png" alt="First slide" class="carousel-img01">
+			<a href=" http://premierfoodsupplies.com/2-new/contactform.php"><button type="button" class="btn btn-outline-dark">CONTACT US</button></a>
+			<p>Connect: &nbsp;<a href=" https://www.linkedin.com/company/premier-food-supplies-llc" target="_blank"><img src="images/linkedin.svg" class="banner-social" alt="linkdin"></a></p>
+		</div>
+    </div>
+    <div class="carousel-item" >
+      <img class=" img-fluid" src="images/premier-banner-B.jpg" alt="Second slide">
+		<div class="carousel-caption">
+			<img src="images/b.png" alt="First slide" class="carousel-img02">
+			<a href=" http://premierfoodsupplies.com/2-new/contactform.php"><button type="button" class="btn btn-outline-dark">CONTACT US</button></a>
+			<p>Connect: &nbsp;<a href=" https://www.linkedin.com/company/premier-food-supplies-llc" target="_blank"><img src="images/linkedin.svg" class="banner-social" alt="linkdin"></a></p>
+		</div>
+    </div>
+    <div class="carousel-item" >
+      <img class="img-fluid" src="images/premier-Banner-C.jpg" alt="Third slide">
+		<div class="carousel-caption">
+			<img src="images/c.png" alt="First slide" class="carousel-img03">
+			<a href="http://premierfoodsupplies.com/2-new/contactform.php"><button type="button" class="btn btn-outline-dark">CONTACT US</button></a>
+			<p>Connect: &nbsp;<a href=" https://www.linkedin.com/company/premier-food-supplies-llc" target="_blank"><img src="images/linkedin.svg" class="banner-social" alt="linkdin"></a></p>
+		</div>
+    </div>
+	<div class="carousel-item">
+       <img class="img-fluid" src="images/premier-Banner-D.jpg" alt="Fourth slide">
+		<div class="carousel-caption">
+			<img src="images/d.png" alt="First slide" class="carousel-img04">
+			<a href="http://premierfoodsupplies.com/2-new/contactform.php"><button type="button" class="btn btn-outline-dark">CONTACT US</button></a>
+			<p>Connect: &nbsp;<a href=" https://www.linkedin.com/company/premier-food-supplies-llc" target="_blank"><img src="images/linkedin.svg" class="banner-social" alt="linkdin"></a></p>
+		</div>
+    </div>
+  </div>
+-->
+<!--
+  <a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
+    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+    <span class="sr-only">Previous</span>
+  </a>
+  <a class="carousel-control-next" href="#carouselExampleIndicators" role="button" data-slide="next">
+    <span class="carousel-control-next-icon" aria-hidden="true"></span>
+    <span class="sr-only">Next</span>
+  </a>
+-->
+<!--</div>		-->
+	
+<div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel">
+  <ol class="carousel-indicators">
+    <li data-target="#carouselExampleIndicators" data-slide-to="0" class="active"></li>
+    <li data-target="#carouselExampleIndicators" data-slide-to="1"></li>
+    <li data-target="#carouselExampleIndicators" data-slide-to="2"></li>
+	 <li data-target="#carouselExampleIndicators" data-slide-to="3"></li>
+  </ol>
+  <div class="carousel-inner">
+    <div class="carousel-item active">
+     <img class=" img-fluid" src="images/Premier-Banners-A.jpg" alt="First slide">
+		<div class="carousel-caption">
+			<img src="images/a.png" alt="First slide" class="carousel-img01">
+			<a href=" http://premierfoodsupplies.com/contactform.php"><button type="button" class="btn btn-outline-dark">CONTACT US</button></a>
+			<p>Connect: &nbsp;<a href=" https://www.linkedin.com/company/premier-food-supplies-llc" target="_blank"><img src="images/linkedin.svg" class="banner-social" alt="linkdin"></a></p>
+		</div>
+    </div>
+    <div class="carousel-item" >
+      <img class=" img-fluid" src="images/premier-banner-B.jpg" alt="Second slide">
+		<div class="carousel-caption">
+			<img src="images/b.png" alt="First slide" class="carousel-img02">
+			<a href=" http://premierfoodsupplies.com/contactform.php"><button type="button" class="btn btn-outline-dark">CONTACT US</button></a>
+			<p>Connect: &nbsp;<a href=" https://www.linkedin.com/company/premier-food-supplies-llc" target="_blank"><img src="images/linkedin.svg" class="banner-social" alt="linkdin"></a></p>
+		</div>
+    </div>
+    <div class="carousel-item" >
+      <img class="img-fluid" src="images/premier-Banner-C.jpg" alt="Third slide">
+		<div class="carousel-caption">
+			<img src="images/c.png" alt="First slide" class="carousel-img03">
+			<a href="http://premierfoodsupplies.com/contactform.php"><button type="button" class="btn btn-outline-dark">CONTACT US</button></a>
+			<p>Connect: &nbsp;<a href=" https://www.linkedin.com/company/premier-food-supplies-llc" target="_blank"><img src="images/linkedin.svg" class="banner-social" alt="linkdin"></a></p>
+		</div>
+    </div>
+	<div class="carousel-item">
+       <img class="img-fluid" src="images/premier-Banner-D.jpg" alt="Fourth slide">
+		<div class="carousel-caption">
+			<img src="images/d.png" alt="First slide" class="carousel-img04">
+			<a href="http://premierfoodsupplies.com/contactform.php"><button type="button" class="btn btn-outline-dark">CONTACT US</button></a>
+			<p>Connect: &nbsp;<a href=" https://www.linkedin.com/company/premier-food-supplies-llc" target="_blank"><img src="images/linkedin.svg" class="banner-social" alt="linkdin"></a></p>
+		</div>
+    </div>
+  </div>
+<!--
+  <a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
+    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+    <span class="sr-only">Previous</span>
+  </a>
+  <a class="carousel-control-next" href="#carouselExampleIndicators" role="button" data-slide="next">
+    <span class="carousel-control-next-icon" aria-hidden="true"></span>
+    <span class="sr-only">Next</span>
+  </a>
+-->
+</div>		
+<!--our story-->
+<div class="our-story" id="about-us">
+	  <div class="row">
+		  <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12 	rght-padd">
+			  <div class="our-story-caption">
+						<div class="story-lft">
+<!--						<img src="images/story-rect.png" class="img-fluid our-story-rect" alt="rect">-->
+		 
+						<div class="our-story-slider">
+							<div id="carouselExampleIndicators03" class="carousel slide" data-ride="carousel">
+
+						  <div class="carousel-inner">
+							<div class="carousel-item active">
+							 <img class="w-100 d-none d-sm-block" src="images/first.jpg" alt="Second slide">
+								<img class="w-100 d-block d-sm-none " src="images/slider-img/first-mob.jpg" alt="Second slide">
+
+							</div>
+
+							<div class="carousel-item ">
+							  <img class="w-100 d-none d-sm-block " src="images/slider-img/01.jpg" alt="Second slide">
+							<img class="w-100 d-block d-sm-none " src="images/slider-img/1.jpg" alt="Second slide">
+							</div>
+
+							<div class="carousel-item">
+							  <img class="w-100 d-none d-sm-block" src="images/slider-img/02.jpg" alt="Third slide">
+							<img class="w-100 d-block d-sm-none " src="images/slider-img/2.jpg" alt="Second slide">
+							</div>
+							<div class="carousel-item ">
+							  <img class="w-100 d-none d-sm-block" src="images/slider-img/03.jpg" alt="Third slide">
+								<img class="w-100 d-block d-sm-none " src="images/slider-img/3.jpg" alt="Second slide">
+							</div>
+
+							  <div class="carousel-item ">
+							  <img class="w-100 d-none d-sm-block" src="images/slider-img/04.jpg" alt="Fourth slide">
+								  <img class="w-100 d-block d-sm-none " src="images/slider-img/4.jpg" alt="Second slide">
+							</div>
+						  </div>
+
+						  <a class="carousel-control-prev" href="#carouselExampleIndicators03" role="button" data-slide="prev">
+							<span class="carousel-control-prev-icon" aria-hidden="true"></span>
+							<span class="sr-only">Previous</span>
+						  </a>
+						  <a class="carousel-control-next" href="#carouselExampleIndicators03" role="button" data-slide="next">
+							<span class="carousel-control-next-icon" aria-hidden="true"></span>
+							<span class="sr-only">Next</span>
+						  </a>
+
+						</div>	  
+						</div>
+					</div>
+						<div class="story-rft">
+				<div class="rft-caption">
+					<a href="#our-founder"><button type="button" class="btn btn-outline-dark " id="show01">Expand &nbsp; &nbsp;&#43;</button></a>
+				</div>
+				</div>
+  				</div>	
+			</div>
+		
+	</div>
+</div>
+	
+	
+
+<!--our founder-->
+<div class="our-founder" id="our-founder">
+	
+	<div class="container-fluid">
+		<div class="founders">
+			<div class="row">
+				<div class="col-lg-4 col-md-4 col-sm-4 col-12">
+					<h2>Our<br>
+						founders</h2>
+				<div class="founder-caption">
+					<p>Premier Food Supplies (PFS) is a leading grocery distributor with coverage across the Midwest and Southwest. We curate the finest products for retailers &amp; restaurants from across Asia.</p>
+
+					<p>With nearly two decades of experience across the food supply chain, our team brings unique insight into the global food landscape.</p>
+				</div>
+				</div>
+				
+				<div class="col-lg-4 col-md-4 col-sm-4 col-12">
+					<div class="founder1">
+<!--						<h5>Jagdish Rughani</h5>-->
+						<img src="images/founder-1.png" alt="founder" class="img-fluid img-founder-1">
+						<p>&#34;A chemical engineer by training, and a<br> 
+							foodie by heart. Amongst the family of<br> 
+							companies, JR leads our own brands and <br>
+							distribution channels<br>
+						<strong>&#45;providing quality food for our <br>communities.&#34;</strong></p>
+					</div>
+				</div>
+				
+				<div class="col-lg-4 col-md-4 col-sm-4 col-12">
+					<div class="founder2">
+<!--						<h5>Amit Makhecha</h5>-->
+						<img src="images/founder-2.png" alt="founder" class="img-fluid img-founder-2">
+						<p>&#34;A mechanical engineer by training, and a <br>
+							chef by heart. Amongst the family of<br> 
+							companies, Amit leads our own <br>
+							manufacturing channel
+						<br>
+						<strong>&#45;empowering our communities with<br>trusted quality food.&#34;</strong></p>
+					</div>
+				</div>
+			
+			</div>
+			<a href="#about-us"><button id="hide01" class="expand-less-btn" style="display: inline-block;">Close</button></a>
+		</div>
+	</div>
+</div>	
+<section class="collabration" id="partner-us">
+	<div class="container-fluid">
+		<div class="row">
+			<div class="col-lg-4 col-md-4 col-sm-4 col-xs-12">
+				<div class="collabration-lft">
+					<p class="main-heading">Partner <br>with Us </p>
+					<p class="collabration-para">
+					At PFS, we pride ourselves on 
+					being your partner. 
+					<br><br>
+					Whether for retailers or 
+					suppliers, our team is mutually 
+					engaged to ensure your 
+					success in satisfying our end 
+					customers.	
+					</p>
+					<p class="collabration-subpara">Quality You<br>
+					 Can Trust. </p>
+					<a href="#collarabtion-expand" id="show" class="promise-btn">Our Promise</a>
+					<img src="images/blue-rect.png" class="blue-rect" alt="blue rect">
+				</div>	
+
+			</div>
+		<div class="col-lg-8 col-md-8 col-sm-8 col-xs-12">
+<!--		<img src="images/map.png" class="img-fluid collabration-map" alt="map">-->
+			<div class="map-background">
+    			<div id="map"></div>
+    		</div>
+<!--    <h2>OUR REACH</h2>-->
+<!--      <p>This map was created and can be edited at <a href="http://simplemaps.com/custom/us/dBz4I09n">http://simplemaps.com/custom/us/dBz4I09n</a>-->
+    
+    
+<!--
+      <p>To remove the "Simplemaps.com Trial" text, <a href="http://simplemaps.com/pricing" />purchase a map license</a>.  
+      
+      Then, register your license at the link above (Options > Register Purchase).  Or, simply replace the usmap.js file in this folder (trial version) with the usmap.js file that you are emailed (full version).
+      
+      </p>
+-->
+    
+ 
+		</div>
+		</div>
+	</div>
+
+</section>	
+<div class="collarabtion-expand" id="collarabtion-expand">
+<div class="container">
+	
+	<a href="#partner-us"><button id="hide" class="expand-less-btn">Back</button></a>
+<div class="row">
+	<div class="col-lg-6 col-md-6 col-sm-6 col-xs-12">
+		<p class="col-list-title">Retailers &amp; Restaurants</p>
+		<ul  class="col-list">
+		<li>On-time delivery</li>
+		<li >Consistent and transparent pricing</li>
+		<li>Data-driven inventory management and procurement</li>
+		<li>Diverse product portfolio (shelf-stable, frozen, and refrigerated goods)</li>
+	    <li>High order fulfillment</li>
+		<li>Store-specific product strategy</li>
+		<li>Dedicated sales reps</li>
+		</ul>
+	</div>
+	<div class="col-lg-6 col-md-6 col-sm-6 col-xs-12">
+		<p class="col-list-title">Suppliers</p>
+		<ul class="col-list">
+		<li>Dedicated brand growth strategies</li>
+		<li >Coverage across the Midwest and Southwest</li>
+		<li>Direct customer feedback and industry-specific insights</li>	
+		<li>Quick and consistent inventory turnover</li>
+		</ul>
+	</div>
+</div>	
+</div>	
+</div>	
+<!--brands-->	
+<div class="our-brands d-none d-sm-block" id="our-brands">
+	<div class="container-fluid">
+		<div class="our-brand-caption">
+			<h3>Curating Products Since 2003</h3>
+			<p>We stay ahead of industry trends, bringing you the finest quality South Asian<br>
+				food products from across the globe.</p>
+			<h4>90+ Brands | 2000+ SKUs</h4>
+		</div>
+		
+		<div class="show-hide-btn">
+		<button type="button" class="btn btn-outline-secondary" id="show02">VIEW BRANDS</button>
+		</div>
+			<div id="brand-toggle" class="brand-toggle" >
+		<div class="brand-logo">
+			
+			<div class="row clmn-full">
+				<div class="col-lg-3 col-md-3 col-sm-3 col-6 wd-clm">
+					<a><img src="images/brand-logo/abhiruchi.png"  alt="brand-logo" class="img-fluid"></a>
+				</div>
+				<div class="col-lg-3 col-md-3 col-sm-3 col-6 wd-clm">
+					<a><img src="images/brand-logo/Adhik-Rangoli.png"  alt="brand-logo" class="img-fluid  mx-auto d-block"></a>
+				</div>
+				<div class="col-lg-3 col-md-3 col-sm-3 col-6 wd-clm">
+					<a href="http://www.sunstaroverseas.com/alishaan.html" target="_blank"><img src="images/brand-logo/alishaan-logo.png" alt="brand-logo" class="img-fluid"></a>
+				</div>
+				<div class="col-lg-3 col-md-3 col-sm-3 col-6 wd-clm">
+					<a href="https://www.desaiproducts.in/" target="_blank"><img src="images/brand-logo/Amar.png" alt="brand-logo" class="img-fluid"></a>
+				</div>
+				
+				
+				
+			</div><br>
+			
+			<div class="row clmn-full">
+				<div class="col-lg-3 col-md-3 col-sm-3 col-6 wd-clm">
+					<a><img src="images/brand-logo/Anand-Bhog.png" alt="brand-logo" class="img-fluid"></a>
+				</div>
+				<div class="col-lg-3 col-md-3 col-sm-3 col-6 wd-clm">
+					<a href="https://www.balajiwafers.com/" target="_blank"><img src="images/brand-logo/balaji.png" alt="brand-logo" class="img-fluid"></a>
+				</div>
+				<div class="col-lg-3 col-md-3 col-sm-3 col-6 wd-clm">
+					<a><img src="images/brand-logo/Bhaiyaji's.png" alt="brand-logo" class="img-fluid"></a>
+				</div>
+				<div class="col-lg-3 col-md-3 col-sm-3 col-6 wd-clm">
+					<a href="https://bleafnatural.com/" target="_blank"><img src="images/brand-logo/Bleaf.png" alt="brand-logo" class="img-fluid"></a>
+				</div>
+				
+			</div><br>
+			
+			<div class="row clmn-full">
+				<div class="col-lg-3 col-md-3 col-sm-3 col-6 wd-clm">
+					<a href="http://www.chingssecret.com/" target="_blank"><img src="images/brand-logo/Chings.png" alt="brand-logo" class="img-fluid"></a>
+				</div>
+				<div class="col-lg-3 col-md-3 col-sm-3 col-6 wd-clm">
+					<a href="https://www.daawat.com/" target="_blank"><img src="images/brand-logo/Daawat.png" alt="brand-logo" class="img-fluid"></a>
+				</div>
+				<div class="col-lg-3 col-md-3 col-sm-3 col-6 wd-clm">
+					<a href="https://www.dabur.com/" target="_blank"><img src="images/brand-logo/Dabur.png" alt="brand-logo" class="img-fluid"></a>
+				</div>
+				<div class="col-lg-3 col-md-3 col-sm-3 col-6 wd-clm">
+					<a href="https://www.dabur.com/in/en-us/products/real" target="_blank"><img src="images/brand-logo/Dabur Real.png" alt="brand-logo" class="img-fluid"></a>
+				</div>
+				
+				
+				
+			</div><br>
+			
+			<div class="row clmn-full">
+				<div class="col-lg-3 col-md-3 col-sm-3 col-6 wd-clm">
+					<a href="http://desifreshfoods.com/" target="_blank"><img src="images/brand-logo/desi-natural.png" alt="brand-logo" class="img-fluid mx-auto d-block"></a>
+				</div>
+				<div class="col-lg-3 col-md-3 col-sm-3 col-6 wd-clm">
+					<a href="http://www.gharanafoods.com/" target="_blank"><img src="images/brand-logo/Gharana.png" alt="brand-logo" class="img-fluid"></a>
+				</div>
+				<div class="col-lg-3 col-md-3 col-sm-3 col-6 wd-clm">
+					<a><img src="images/brand-logo/Ghar-Se.png" alt="brand-logo" class="img-fluid "></a>
+				</div>
+		
+				<div class="col-lg-3 col-md-3 col-sm-3 col-6 wd-clm">
+					<a href="https://girnar.com/" target="_blank"><img src="images/brand-logo/Girnar.png" alt="brand-logo" class="img-fluid"></a>
+				</div>
+				
+			</div><br>
+			<div class="row clmn-full">
+				<div class="col-lg-3 col-md-3 col-sm-3 col-6 wd-clm">
+					<a href="https://www.grbdairyfood.com/" target="_blank"><img src="images/brand-logo/GRB.png" alt="brand-logo" class="img-fluid"></a>
+				</div>
+				<div class="col-lg-3 col-md-3 col-sm-3 col-6 wd-clm">
+					<a href="http://www.haldiram.com/" target="_blank"><img src="images/brand-logo/Haldiram.png" alt="brand-logo" class="img-fluid mx-auto d-block"></a>
+				</div>
+				<div class="col-lg-3 col-md-3 col-sm-3 col-6 wd-clm">
+					<a><img src="images/brand-logo/indias-nature.png" alt="brand-logo" class="img-fluid"></a>
+				</div>
+				<div class="col-lg-3 col-md-3 col-sm-3 col-6 wd-clm">
+					<a><img src="images/brand-logo/Indravati.png" alt="brand-logo" class="img-fluid"></a>
+				</div>
+				
+			</div><br>
+			<div class="row clmn-full">
+				<div class="col-lg-3 col-md-3 col-sm-3 col-6 wd-clm">
+					<a href="http://www.jabsons.com/" target="_blank"><img src="images/brand-logo/jabsons.png" alt="brand-logo" class="img-fluid"></a>
+				</div>
+				<div class="col-lg-3 col-md-3 col-sm-3 col-6 wd-clm">
+					<a href="https://www.karisonsnacks.com/" target="_blank"><img src="images/brand-logo/karisons.png" alt="brand-logo" class="img-fluid"></a>
+				</div>
+				<div class="col-lg-3 col-md-3 col-sm-3 col-6 wd-clm">
+					<a><img src="images/brand-logo/Kathiywadi.png" alt="brand-logo" class="img-fluid"></a>
+				</div>
+				<div class="col-lg-3 col-md-3 col-sm-3 col-6 wd-clm">
+					<a href="https://www.kontos.com/" target="_blank"><img src="images/brand-logo/kontos.png" alt="brand-logo" class="img-fluid"></a>
+				</div>
+				
+			</div><br>
+			<div class="row clmn-full">
+				<div class="col-lg-3 col-md-3 col-sm-3 col-6 wd-clm">
+					<a href="http://liondates.com/products/" target="_blank"><img src="images/brand-logo/lion-logo.png" alt="brand-logo" class="img-fluid  mx-auto d-block"></a>
+				</div>
+				<div class="col-lg-3 col-md-3 col-sm-3 col-6 wd-clm">
+					<a href="https://www.mtrfoods.com/" target="_blank"><img src="images/brand-logo/MTR.png" alt="brand-logo" class="img-fluid  mx-auto d-block"></a>
+				</div>
+				<div class="col-lg-3 col-md-3 col-sm-3 col-6 wd-clm">
+					<a target="_blank"><img src="images/brand-logo/mukkis.png" alt="brand-logo" class="img-fluid"></a>
+				</div>
+				<div class="col-lg-3 col-md-3 col-sm-3 col-6 wd-clm">
+					<a href="https://www.nanakfoods.com/" target="_blank"><img src="images/brand-logo/nanak-01.png" alt="brand-logo" class="img-fluid  mx-auto d-block"></a>
+				</div>
+				
+				<!--3-->	
+			</div><br>
+			<div class="row clmn-full">
+				<div class="col-lg-3 col-md-3 col-sm-3 col-6 wd-clm">
+					<a href="http://www.pachrangafoodsinternational.com/" target="_blank"><img src="images/brand-logo/Panchrang.png" alt="brand-logo" class="img-fluid"></a>
+				</div>
+				<div class="col-lg-3 col-md-3 col-sm-3 col-6 wd-clm">
+					<a href="http://www.parleproducts.com/" target="_blank"><img src="images/brand-logo/Parle.png" alt="brand-logo" class="img-fluid mx-auto d-block"></a>
+				</div>
+				<div class="col-lg-3 col-md-3 col-sm-3 col-6 wd-clm">
+					<a href="https://www.poplettes.com/" target="_blank"><img src="images/brand-logo/Popplets.png" alt="brand-logo" class="img-fluid"></a>
+				</div>
+				<div class="col-lg-3 col-md-3 col-sm-3 col-6 wd-clm">
+					<a><img src="images/brand-logo/Premier.png" alt="brand-logo" class="img-fluid"></a>
+				</div>
+				
+				<!--4-->				
+			</div><br>
+			<div class="row clmn-full">
+				<div class="col-lg-3 col-md-3 col-sm-3 col-6 wd-clm">
+					<a href="https://priyafoods.com/" target="_blank"><img src="images/brand-logo/priya.png" alt="brand-logo" class="img-fluid mx-auto d-block"></a>
+				</div>
+				<div class="col-lg-3 col-md-3 col-sm-3 col-6 wd-clm">
+					<a><img src="images/brand-logo/Pura-Faith.png" alt="brand-logo" class="img-fluid mx-auto d-block"></a>
+				</div>
+				<div class="col-lg-3 col-md-3 col-sm-3 col-6 wd-clm">
+					<a href="http://www.authenticroyal.com/" target="_blank"><img src="images/brand-logo/Royal Logo.png" alt="brand-logo" class="img-fluid mx-auto d-block"></a>
+				</div>
+				<div class="col-lg-3 col-md-3 col-sm-3 col-6 wd-clm">
+					<a><img src="images/brand-logo/Taara.png" alt="brand-logo" class="img-fluid"></a>
+				</div>
+				
+				<!--5-->
+			</div><br>
+			<div class="row clmn-full">
+				<div class="col-lg-3 col-md-3 col-sm-3 col-6 wd-clm">
+					<a href="https://www.tetley.in/" target="_blank"><img src="images/brand-logo/tetley.png" alt="brand-logo" class="img-fluid"></a>
+				</div>
+				<div class="col-lg-3 col-md-3 col-sm-3 col-6 wd-clm">
+					<a href="https://www.reconoil.com" target="_blank"><img src="images/brand-logo/tez.png" alt="brand-logo" class="img-fluid"></a>
+				</div>
+				<div class="col-lg-3 col-md-3 col-sm-3 col-6 wd-clm">
+					<a href="http://www.ustadbannenawab.com/" target="_blank"><img src="images/brand-logo/Ustad-Banne-Nawab.png" alt="brand-logo" class="img-fluid"></a>
+				</div>
+				<div class="col-lg-3 col-md-3 col-sm-3 col-6 wd-clm">
+					<a href="http://vidhyafoods.com/index.html" target="_blank"><img src="images/brand-logo/vidhya.png" alt="brand-logo" class="img-fluid"></a>
+				</div>
+				
+			</div><br>
+			<div class="row clmn-full">
+				<div class="col-lg-3 col-md-3 col-sm-3 col-6 wd-clm">
+					<a href="http://viswasfoods.in/" target="_blank"><img src="images/brand-logo/vishwas.png" alt="brand-logo" class="img-fluid"></a>
+				</div>
+				<div class="col-lg-3 col-md-3 col-sm-3 col-6 wd-clm">
+					<a href="http://zafaranirice.com/" target="_blank"><img src="images/brand-logo/Zafrani.png" alt="brand-logo" class="img-fluid mx-auto d-block"></a>
+				</div>	
+			</div><br>
+		</div>
+		<div class="show-hide-btn">
+		<button type="button" class="btn btn-outline-secondary" id="hide02">SHOW LESS</button>
+		</div>
+		</div>
+</div>
+</div>
+<!--brands-->	
+<div class="our-brands d-block d-sm-none" id="our-brands">
+	<div class="container-fluid">
+		<div class="our-brand-caption">
+			<h3>Curating Products Since 2003</h3>
+			<p>We stay ahead of industry trends, bringing you the finest quality South Asian<br>
+				food products from across the globe.</p>
+			<h4>90+ Brands | 2000+ SKUs</h4>
+		</div>
+		<div class="show-hide-btn">
+			<button type="button" class="btn btn-outline-secondary" id="show03">VIEW BRANDS</button>
+		</div>
+		<div id="brand-toggle1" class="brand-toggle" >
+		<div class="brand-logo">
+			<div class="row clmn-full">
+				<div class="col-lg-3 col-md-3 col-sm-3 col-6 wd-clm">
+					<a><img src="images/brand-logo/abhiruchi.png" alt="brand-logo" class="img-fluid"></a>
+				</div>
+				<div class="col-lg-3 col-md-3 col-sm-3 col-6 wd-clm">
+					<a><img src="images/brand-logo/Adhik-Rangoli.png" alt="brand-logo" class="img-fluid  mx-auto d-block"></a>
+				</div>
+				
+				
+				
+			</div><br>
+				
+			<div class="row clmn-full">
+				<div class="col-lg-3 col-md-3 col-sm-3 col-6 wd-clm">
+					<a href="http://www.sunstaroverseas.com/alishaan.html" target="_blank"><img src="images/brand-logo/alishaan-logo.png" alt="brand-logo" class="img-fluid"></a>
+				</div>
+				<div class="col-lg-3 col-md-3 col-sm-3 col-6 wd-clm">
+					<a href="https://www.desaiproducts.in/" target="_blank"><img src="images/brand-logo/Amar.png" alt="brand-logo" class="img-fluid"></a>
+				</div>
+				
+				
+				
+			</div><br>
+			
+			<div class="row clmn-full">
+				<div class="col-lg-3 col-md-3 col-sm-3 col-6 wd-clm">
+					<a><img src="images/brand-logo/Anand-Bhog.png" alt="brand-logo" class="img-fluid"></a>
+				</div>
+				<div class="col-lg-3 col-md-3 col-sm-3 col-6 wd-clm">
+					<a href="https://www.balajiwafers.com/" target="_blank"><img src="images/brand-logo/balaji.png" alt="brand-logo" class="img-fluid"></a>
+				</div>
+				
+			</div><br>
+			
+			<div class="row clmn-full">
+				<div class="col-lg-3 col-md-3 col-sm-3 col-6 wd-clm">
+					<a><img src="images/brand-logo/Bhaiyaji's.png" alt="brand-logo" class="img-fluid"></a>
+				</div>
+				<div class="col-lg-3 col-md-3 col-sm-3 col-6 wd-clm">
+					<a href="https://bleafnatural.com/" target="_blank"><img src="images/brand-logo/Bleaf.png" alt="brand-logo" class="img-fluid"></a>
+				</div>
+			</div><br>
+			
+			<div class="row clmn-full">
+				<div class="col-lg-3 col-md-3 col-sm-3 col-6 wd-clm">
+					<a href="http://www.chingssecret.com/" target="_blank"><img src="images/brand-logo/Chings.png" alt="brand-logo" class="img-fluid"></a>
+				</div>
+				<div class="col-lg-3 col-md-3 col-sm-3 col-6 wd-clm">
+					<a href="https://www.daawat.com/" target="_blank"><img src="images/brand-logo/Daawat.png" alt="brand-logo" class="img-fluid"></a>
+				</div>
+			</div><br>
+			
+			<div class="row clmn-full">
+				<div class="col-lg-3 col-md-3 col-sm-3 col-6 wd-clm">
+					<a href="https://www.dabur.com/" target="_blank"><img src="images/brand-logo/Dabur.png" alt="brand-logo" class="img-fluid"></a>
+				</div>
+				<div class="col-lg-3 col-md-3 col-sm-3 col-6 wd-clm">
+					<a href="https://www.dabur.com/in/en-us/products/real" target="_blank"><img src="images/brand-logo/Dabur Real.png" alt="brand-logo" class="img-fluid"></a>
+				</div>
+			</div><br>
+			
+			<div class="row clmn-full">
+				<div class="col-lg-3 col-md-3 col-sm-3 col-6 wd-clm">
+					<a href="http://desifreshfoods.com/" target="_blank"><img src="images/brand-logo/desi-natural.png" alt="brand-logo" class="img-fluid mx-auto d-block"></a>
+				</div>
+				<div class="col-lg-3 col-md-3 col-sm-3 col-6 wd-clm">
+					<a href="http://www.gharanafoods.com/" target="_blank"><img src="images/brand-logo/Gharana.png" alt="brand-logo" class="img-fluid"></a>
+				</div>
+				
+			</div><br>
+			
+			<div class="row clmn-full">
+				<div class="col-lg-3 col-md-3 col-sm-3 col-6 wd-clm">
+					<a><img src="images/brand-logo/Ghar-Se.png" alt="brand-logo" class="img-fluid "></a>
+				</div>
+				<div class="col-lg-3 col-md-3 col-sm-3 col-6 wd-clm">
+					<a href="https://girnar.com/" target="_blank"><img src="images/brand-logo/Girnar.png" alt="brand-logo" class="img-fluid"></a>
+				</div>
+			</div><br>
+			
+			<div class="row clmn-full">
+				<div class="col-lg-3 col-md-3 col-sm-3 col-6 wd-clm">
+					<a href="https://www.grbdairyfood.com/" target="_blank"><img src="images/brand-logo/GRB.png" alt="brand-logo" class="img-fluid"></a>
+				</div>
+				<div class="col-lg-3 col-md-3 col-sm-3 col-6 wd-clm">
+					<a href="http://www.haldiram.com/" target="_blank"><img src="images/brand-logo/Haldiram.png" alt="brand-logo" class="img-fluid mx-auto d-block"></a>
+				</div>
+			</div><br>
+			
+			<div class="row clmn-full">
+				<div class="col-lg-3 col-md-3 col-sm-3 col-6 wd-clm">
+					<a><img src="images/brand-logo/indias-nature.png" alt="brand-logo" class="img-fluid"></a>
+				</div>
+				<div class="col-lg-3 col-md-3 col-sm-3 col-6 wd-clm">
+					<a><img src="images/brand-logo/Indravati.png" alt="brand-logo" class="img-fluid"></a>
+				</div>
+				
+			</div><br>
+			
+			<div class="row clmn-full">
+				<div class="col-lg-3 col-md-3 col-sm-3 col-6 wd-clm">
+					<a href="http://www.jabsons.com/" target="_blank"><img src="images/brand-logo/jabsons.png" alt="brand-logo" class="img-fluid"></a>
+				</div>
+				<div class="col-lg-3 col-md-3 col-sm-3 col-6 wd-clm">
+					<a href="https://www.karisonsnacks.com/" target="_blank"><img src="images/brand-logo/karisons.png" alt="brand-logo" class="img-fluid"></a>
+				</div>
+				
+				
+			</div><br>
+			
+			<div class="row clmn-full">
+				<div class="col-lg-3 col-md-3 col-sm-3 col-6 wd-clm">
+					<a><img src="images/brand-logo/Kathiywadi.png" alt="brand-logo" class="img-fluid"></a>
+				</div>
+				<div class="col-lg-3 col-md-3 col-sm-3 col-6 wd-clm">
+					<a href="https://www.kontos.com/" target="_blank"><img src="images/brand-logo/kontos.png" alt="brand-logo" class="img-fluid"></a>
+				</div>
+				
+				
+				<!--2-->	
+			</div><br>
+			
+			<div class="row clmn-full">
+				<div class="col-lg-3 col-md-3 col-sm-3 col-6 wd-clm">
+					<a href="http://liondates.com/products/" target="_blank"><img src="images/brand-logo/lion-logo.png" alt="brand-logo" class="img-fluid mx-auto d-block"></a>
+				</div>
+				<div class="col-lg-3 col-md-3 col-sm-3 col-6 wd-clm">
+					<a href="https://www.mtrfoods.com/" target="_blank"><img src="images/brand-logo/MTR.png" alt="brand-logo" class="img-fluid mx-auto d-block"></a>
+				</div>
+				
+				
+			</div><br>
+			<div class="row clmn-full">
+				<div class="col-lg-3 col-md-3 col-sm-3 col-6 wd-clm">
+					<a target="_blank"><img src="images/brand-logo/mukkis.png" alt="brand-logo" class="img-fluid"></a>
+				</div>
+				<div class="col-lg-3 col-md-3 col-sm-3 col-6 wd-clm">
+					<a href="https://www.nanakfoods.com/" target="_blank"><img src="images/brand-logo/nanak-01.png" alt="brand-logo" class="img-fluid mx-auto d-block"></a>
+				</div>
+				
+				
+				<!--3-->
+			</div><br>
+			
+			<div class="row clmn-full">
+				<div class="col-lg-3 col-md-3 col-sm-3 col-6 wd-clm">
+					<a href="http://www.pachrangafoodsinternational.com/" target="_blank"><img src="images/brand-logo/Panchrang.png" alt="brand-logo" class="img-fluid"></a>
+				</div>
+				<div class="col-lg-3 col-md-3 col-sm-3 col-6 wd-clm">
+					<a href="http://www.parleproducts.com/" target="_blank"><img src="images/brand-logo/Parle.png" alt="brand-logo" class="img-fluid mx-auto d-block"></a>
+				</div>
+				
+				
+			</div><br>
+			
+			<div class="row clmn-full">
+				<div class="col-lg-3 col-md-3 col-sm-3 col-6 wd-clm">
+					<a href="https://www.poplettes.com/" target="_blank"><img src="images/brand-logo/Popplets.png" alt="brand-logo" class="img-fluid"></a>
+				</div>
+				<div class="col-lg-3 col-md-3 col-sm-3 col-6 wd-clm">
+					<a><img src="images/brand-logo/Premier.png" alt="brand-logo" class="img-fluid"></a>
+				</div>
+				
+				
+				<!--4-->	
+			</div><br>
+			
+			<div class="row clmn-full">
+				<div class="col-lg-3 col-md-3 col-sm-3 col-6 wd-clm">
+					<a href="https://priyafoods.com/" target="_blank"><img src="images/brand-logo/priya.png" alt="brand-logo" class="img-fluid mx-auto d-block"></a>
+				</div>
+				<div class="col-lg-3 col-md-3 col-sm-3 col-6 wd-clm">
+					<a><img src="images/brand-logo/Pura-Faith.png" alt="brand-logo" class="img-fluid mx-auto d-block"></a>
+				</div>
+				
+				
+			</div><br>
+			
+			<div class="row clmn-full">
+				<div class="col-lg-3 col-md-3 col-sm-3 col-6 wd-clm">
+					<a href="http://www.authenticroyal.com/" target="_blank"><img src="images/brand-logo/Royal Logo.png" alt="brand-logo" class="img-fluid mx-auto d-block"></a>
+				</div>
+				<div class="col-lg-3 col-md-3 col-sm-3 col-6 wd-clm">
+					<a><img src="images/brand-logo/Taara.png" alt="brand-logo" class="img-fluid"></a>
+				</div>
+				
+				
+				<!--5-->
+			</div><br>
+			
+			<div class="row clmn-full">
+				<div class="col-lg-3 col-md-3 col-sm-3 col-6 wd-clm">
+					<a href="https://www.tetley.in/" target="_blank"><img src="images/brand-logo/tetley.png" alt="brand-logo" class="img-fluid"></a>
+				</div>
+				<div class="col-lg-3 col-md-3 col-sm-3 col-6 wd-clm">
+					<a href="https://www.reconoil.com" target="_blank"><img src="images/brand-logo/tez.png" alt="brand-logo" class="img-fluid"></a>
+				</div>
+				
+				
+			</div><br>
+			
+			<div class="row clmn-full">
+				<div class="col-lg-3 col-md-3 col-sm-3 col-6 wd-clm">
+					<a href="http://www.ustadbannenawab.com/" target="_blank"><img src="images/brand-logo/Ustad-Banne-Nawab.png" alt="brand-logo" class="img-fluid"></a>
+				</div>
+				<div class="col-lg-3 col-md-3 col-sm-3 col-6 wd-clm">
+					<a href="http://vidhyafoods.com/index.html" target="_blank"><img src="images/brand-logo/vidhya.png" alt="brand-logo" class="img-fluid"></a>
+				</div>
+				
+			</div><br>
+			<div class="row clmn-full">
+				<div class="col-lg-3 col-md-3 col-sm-3 col-6 wd-clm">
+					<a href="http://viswasfoods.in/" target="_blank"><img src="images/brand-logo/vishwas.png" alt="brand-logo" class="img-fluid"></a>
+				</div>
+				<div class="col-lg-3 col-md-3 col-sm-3 col-6 wd-clm">
+					<a href="http://zafaranirice.com/" target="_blank"><img src="images/brand-logo/Zafrani.png" alt="brand-logo" class="img-fluid mx-auto d-block"></a>
+				</div>	
+			</div><br>
+		</div>
+		</div>
+		<div class="show-hide-btn">
+		<button type="button" class="btn btn-outline-secondary" id="hide03">SHOW LESS</button>
+		</div>
+</div>
+</div>
+
+<section class="contact" id="contact">
+	<div class="container-fluid">
+		<div class="row">
+			<div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
+			 <p class="contact-title">Questions? Get in touch.</p>
+				
+			<div class="show-hide-btn">
+			 <a href="http://premierfoodsupplies.com/contactform.php"><button type="button" class="btn btn-outline-primary">Contact Us</button></a>
+			</div>
+			</div>
+		</div>
+	</div>
+</section>
+<!--footer-->
+<div class="footer">
+	<div class="container-fluid">
+		<div class="row">
+			<div class="col-lg-3 col-md-3 col-sm-3 col-12">
+				<a href="http://premierfoodsupplies.com/"><img src="images/footer-logo.png" class="img-fluid img-footer-logo" alt="footer-logo"></a>
+			</div>
+			<div class="col-lg-3 col-md-3 col-sm-3 col-12">
+				<img src="images/location.png" class="img-fluid img-location" alt="location">
+				<p><strong>Michigan Distribution Center (HQ)</strong><br>
+				1783 Thunderbird St, <br>Troy, MI 48084<br>
+				<strong>Office: +1 248.275.6621</strong><br>
+				<strong>Fax: +1 248.591.9300</strong>
+				<a href="mailto=info@premierfoodsupplies.com">info@premierfoodsupplies.com</a><br>
+				Territories serviced: MI, OH, IN, KY,  PA</p>
+			</div>
+			<div class="col-lg-3 col-md-3 col-sm-3 col-12">
+				<img src="images/location.png" class="img-fluid img-location" alt="location">
+				<p><strong>Illinois Distribution Center</strong><br>
+				26W333 St. Charles Rd, <br>Carol Stream, IL 60188<br>
+				<strong>Office: +1 630.454.5600 </strong><br>
+				<strong>Fax: +1 630.216.6207</strong><br>
+				Territories serviced: IL, WI, MN, IA,<br> 
+					MO, AR, ND, SD, NE, KS, CO, WY</p>
+			</div>
+			<div class="col-lg-3 col-md-3 col-sm-3 col-12">
+				<img src="images/location.png" class="img-fluid img-location" alt="location">
+				<p><strong>Texas Distribution Center</strong><br>
+				11309 Indian Trail,<br> Dallas, TX 75229<br>
+				<strong>Office: +1 469.473.6655</strong><br>
+				<strong>Fax: +1 903.609.1653</strong><br>
+				Territories serviced: TX</p>
+				<p class="connect">Connect:<a href="https://www.linkedin.com/company/premier-food-supplies-llc" target="_blank"><img src="images/footer-linkedin.png" class="img-fluid social" alt="social-icon" ></a></p>
+			</div>
+		</div>
+		<hr>
+		
+	</div>
+	<div class="sub-footer">
+			<h6>2020 @ Premier Food Supplies LLC, All rights reserved   |  Design by: <a href="https://www.optimist.co.in/" target="_blank">Optimist Brand Design LLP</a></h6>
+		
+		<h6 class="update">Last Updated: 02-2020</h6>
+	
+	</div>
+	
+</div>
+
+
+<script src="asset/bootstrap/jquery.js" type="text/javascript"></script>
+<script src="asset/bootstrap/bootstrap4.js" type="text/javascript"></script>
+<script src="asset/mapdata.js" type="text/javascript"></script>
+<script src="asset/usmap.js" type="text/javascript"></script>	
+</body>
+</html>

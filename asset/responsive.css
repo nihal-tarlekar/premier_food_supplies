@@ -1,0 +1,2452 @@
+@charset "utf-8";
+html {
+	width: 100%;
+	margin: 0px ;
+    padding: 0px ;
+	overflow-x: hidden;
+	
+}
+
+@media screen and (max-width:2560px) {
+
+    .navbar-brand img {
+        width: 100%;
+        margin-top: -10%
+    }
+    .navbar {
+        padding-top: 3%;
+        padding-bottom: 3%
+    }
+    .navbar-light .navbar-nav .nav-link {
+        font-size: 36px
+    }
+    .carousel-caption .btn.btn-outline-dark {
+        font-size: 30px;
+        width: auto
+    }
+    .carousel-caption p {
+        font-size: 40px
+    }
+    .banner-social {
+        width: 3%;
+        vertical-align: top;	
+    }
+    .our-story-caption h2 {
+        font-size: 208px;
+        padding-top: 1%
+    }
+    .rft-caption h3 {
+        font-size: 84px;
+        padding-top: 30%
+    }
+    .flexslider {
+        width: 126%;
+        margin-top: -3%;
+        padding: 0
+    }
+    .flexslider-carousel {
+        top: 75%!important
+    }
+    .rft-caption .btn.btn-outline-dark {
+        font-size: 38px
+    }
+    .our-brands {
+        margin-top: 0
+    }
+    .our-founder {
+        margin-top: 0;
+        margin-bottom: 0
+    }
+    .flex-caption-ttle {
+        font-size: 42px
+    }
+    .flex-caption {
+        line-height: 35px;
+        font-size: 30px
+    }
+    .collabration .main-heading,
+    .our-brand-caption h3,
+    .our-brand-caption h4 {
+        font-size: 70px
+    }
+    .our-brand-caption p {
+        font-size: 36px
+    }
+    .btn.btn-outline-secondary {
+        font-size: 28px
+    }
+    .founder-caption p {
+        font-size: 34px;
+        padding-top: 2%;
+        padding-bottom: 4%;
+        line-height: 40px
+    }
+    .founders h2 {
+        font-size: 65px;
+        padding-top: 5%
+    }
+    .founder1 h5,
+    .founder2 h5 {
+        font-size: 36px;
+        left: 23%;
+        top: -1%
+    }
+    .collabration .collabration-para {
+        font-size: 34px
+    }
+    .collabration .collabration-subpara {
+    font-size: 70px;
+    line-height: 90px;
+    padding-top: 4%;
+}
+    .collabration-map {
+        margin-top: 0
+    }
+    .collabration a.promise-btn {
+        font-size: 34px
+    }
+    .contact-title {
+        font-size: 60px;
+        padding-top: 3%
+    }
+    .btn.btn-outline-primary {
+        font-size: 30px;
+        width: auto;
+/*
+        padding-top: 1%;
+        padding-bottom: 1%
+*/
+    }
+    .collarabtion-expand {
+        padding-top: 6%!important;
+        padding-bottom: 6%!important
+    }
+    .col-list-title {
+        font-size: 50px!important;
+        padding-top: 15%
+    }
+    .col-list {
+        font-size: 28px!important
+    }
+    .footer a,
+    .footer p {
+        font-size: 24px;
+        color: #fff
+    }
+    .sub-footer a,
+    .sub-footer h6 {
+        font-size: 26px
+    }
+    .expand-less-btn {
+        font-size: 34px
+    }
+    .img-location {
+        width: 10%
+    }
+    .rft-cilrcle {
+        margin-top: -11.5%;
+        position: relative;
+        width: 100%
+    }
+    .founder1 p,
+    .founder2 p {
+        font-size: 24px
+    }
+    .img-founder-1,
+    .img-founder-2 {
+        margin-left: 18%
+    }
+    .nav-tabs {
+        padding-top: 2%;
+        margin-left: 14%
+    }
+    .tab {
+        margin-left: 10%
+    }
+    .tab button {
+        font-size: 30px
+    }
+}
+
+@media screen and (max-width:1920px) {
+    .navbar-light .navbar-nav .nav-link {
+        font-size: 26px
+    }
+    .carousel-caption .btn.btn-outline-dark {
+        font-size: 20px;
+        padding-top: 1%;
+        padding-bottom: 1%;
+        width: auto
+    }
+    .carousel-caption {
+        bottom: 1%
+    }
+    .carousel-caption p {
+        font-size: 30px
+    }
+    .our-story-caption h2 {
+        font-size: 154px;
+        padding-top: 1%
+    }
+    .rft-caption h3 {
+        font-size: 60px;
+        padding-top: 32%
+    }
+    .rft-caption .btn.btn-outline-dark {
+        font-size: 26px;
+        margin-top: 80%
+    }
+    .flex-caption {
+        line-height: 30px;
+        font-size: 26px
+    }
+    .flex-carousal {
+        top: 66%
+    }
+    .flexslider-carousel {
+        top: 68%!important
+    }
+    .collabration .main-heading,
+    .our-brand-caption h3,
+    .our-brand-caption h4 {
+        font-size: 60px
+    }
+    .our-brand-caption p {
+        font-size: 30px
+    }
+    .btn.btn-outline-secondary {
+        font-size: 24px
+    }
+    .collabration .collabration-para {
+        font-size: 26px
+    }
+    .collabration .collabration-subpara {
+    font-size: 58px;
+    line-height: 78px;
+    padding-top: 3%;
+}
+    .collabration a.promise-btn {
+        font-size: 28px
+    }
+    .contact-title {
+        font-size: 48px;
+        padding-top: 3%
+    }
+    .footer a,
+    .footer p {
+        font-size: 20px;
+        color: #fff
+    }
+    .sub-footer a,
+    .sub-footer h6 {
+        font-size: 22px
+    }
+    .founder-caption p {
+        font-size: 24px;
+        line-height: 35px
+    }
+    .founders h2 {
+        font-size: 52px;
+        padding-top: 5%
+    }
+    .founder1 h5,
+    .founder2 h5 {
+        font-size: 32px;
+        left: 30%;
+        top: 0
+    }
+    .founder1 p,
+    .founder2 p {
+        font-size: 22px;
+        margin-left: 22%
+    }
+    .expand-less-btn {
+        font-size: 28px
+    }
+    .our-founder {
+        margin-top: 0
+    }
+    .our-brands {
+        margin-top: 0
+    }
+    .btn.btn-outline-primary {
+        font-size: 27px;
+        width: auto;
+/*
+        padding-top: 1%;
+        padding-bottom: 1%
+*/
+    }
+    .col-list-title {
+        font-size: 34px!important;
+        padding-top: 10%
+    }
+    .col-list {
+        font-size: 21px!important
+    }
+    .collarabtion-expand {
+        padding-top: 6%!important;
+        padding-bottom: 6%!important
+    }
+    .nav-tabs {
+        padding-top: 2%;
+        margin-left: 10%;
+        padding-bottom: 2%
+    }
+    .tab {
+        margin-left: 8%
+    }
+    .tab button {
+        font-size: 22px
+    }
+}
+
+@media screen and (max-width:1600px) {
+    .navbar-brand img {
+        width: 80%;
+        margin-top: -5%
+    }
+    .navbar-light .navbar-nav .nav-link {
+        font-size: 21px
+    }
+    .navbar {
+        padding-top: 2%;
+        padding-bottom: 2%
+    }
+    .carousel-caption .btn.btn-outline-dark {
+        font-size: 18px;
+        width: auto
+    }
+    .carousel-caption p {
+        font-size: 26px
+    }
+    .our-story-caption h2 {
+        font-size: 126px;
+        padding-top: 1%
+    }
+    .rft-caption h3 {
+        font-size: 50px;
+        padding-top: 32%
+    }
+    .rft-caption .btn.btn-outline-dark {
+        font-size: 24px;
+        margin-top: 80%
+    }
+    .img-founder-1,
+    .img-founder-2 {
+        margin-left: 0
+    }
+    .flex-caption {
+        line-height: 25px;
+        font-size: 22px
+    }
+    .collabration .main-heading,
+    .our-brand-caption h3,
+    .our-brand-caption h4 {
+        font-size: 50px
+    }
+    .our-brand-caption p {
+        font-size: 26px
+    }
+    .btn.btn-outline-secondary {
+        font-size: 20px
+    }
+    .collabration .collabration-para {
+        font-size: 24px
+    }
+    .collabration .collabration-subpara {
+    font-size: 48px;
+    line-height: 64px;
+    padding-top: 3%;
+}
+    .collabration a.promise-btn {
+        font-size: 24px
+    }
+    .collabration-map {
+        margin-top: 0
+    }
+    .contact-title {
+        font-size: 42px;
+        padding-top: 3%
+    }
+    .btn.btn-outline-primary {
+        font-size: 24px
+    }
+    .footer a,
+    .footer p {
+        font-size: 17px;
+        color: #fff
+    }
+    .sub-footer a,
+    .sub-footer h6 {
+        font-size: 18px
+    }
+    .founder-caption p {
+        font-size: 21px
+    }
+    .founder1 h5,
+    .founder2 h5 {
+        font-size: 30px;
+        left: 33%;
+        top: 0
+    }
+    .founder1 p,
+    .founder2 p {
+        font-size: 19px;
+        margin-left: 0
+    }
+    .expand-less-btn {
+        font-size: 24px
+    }
+    .col-list-title {
+        padding-top: 15%
+    }
+    .nav-tabs {
+        margin-left: 6%
+    }
+    .tab {
+        margin-left: 6%
+    }
+    .tab button {
+        font-size: 18px
+    }
+	.social{
+		margin-top: -1%;
+	}
+}
+
+@media screen and (max-width:1440px) {
+    .navbar-light .navbar-nav .nav-link {
+        font-size: 20px
+    }
+	.social{
+		margin-top: 0%;
+	}
+    .our-brands {
+        margin-top: 0
+    }
+    .carousel-caption .btn.btn-outline-dark {
+        font-size: 16px;
+        width: auto
+    }
+    .carousel-caption p {
+        font-size: 20px;
+		margin-top: 2%;
+    }
+    .our-story-caption h2 {
+        font-size: 116px;
+        padding-top: 0
+    }
+    .rft-caption h3 {
+        font-size: 40px;
+        padding-top: 32%
+    }
+    .rft-caption .btn.btn-outline-dark {
+        font-size: 20px;
+        margin-top: 80%;
+        margin-left: 32%
+    }
+    .img-founder-1,
+    .img-founder-2 {
+        margin-left: 0
+    }
+    .flex-caption {
+        line-height: 22px;
+        font-size: 18px
+    }
+    .collabration .main-heading,
+    .our-brand-caption h3,
+    .our-brand-caption h4 {
+        font-size: 40px
+    }
+    .our-brand-caption p {
+        font-size: 22px
+    }
+    .btn.btn-outline-secondary {
+        font-size: 17px
+    }
+    .collabration .collabration-para {
+        font-size: 20px
+    }
+    .collabration .collabration-subpara {
+    font-size: 44px;
+    line-height: 54px;
+		padding-top: 3%;
+}
+    .collabration a.promise-btn {
+        font-size: 20px
+    }
+    .contact-title {
+        font-size: 38px;
+        padding-top: 2%
+    }
+    .footer a,
+    .footer p {
+        font-size: 14px;
+        color: #fff
+    }
+    .sub-footer a,
+    .sub-footer h6 {
+        font-size: 15px
+    }
+    .btn.btn-outline-primary {
+        font-size: 20px
+    }
+    .col-list-title {
+        font-size: 28px!important;
+        padding-top: 15%
+    }
+    .col-list {
+        font-size: 18px!important
+    }
+    .expand-less-btn {
+        font-size: 20px
+    }
+    .flex-carousal {
+        top: 65.9%;
+        width: 100%;
+        margin-left: 0;
+        margin-top: .8%
+    }
+    .founder-caption p {
+        font-size: 20px;
+        padding-top: 4%;
+        padding-bottom: 2%;
+        line-height: 28px
+    }
+    .founder1 p,
+    .founder2 p {
+        font-size: 16px;
+        margin-left: 0
+    }
+    .nav-tabs {
+        margin-left: 3%
+    }
+    .tab {
+        margin-left: 3%
+    }
+    .tab button {
+        font-size: 17px
+    }
+}
+
+@media screen and (max-width:1366px) and (max-height:768px) {
+    .navbar-light .navbar-nav .nav-link {
+        font-size: 18px
+    }
+    .our-story-caption h2 {
+        font-size: 108px;
+        padding-top: 0
+    }
+    .carousel-caption {
+        bottom: 0
+    }
+    .nav-tabs {
+        margin-left: 1%
+    }
+	.collabration .collabration-subpara {
+    font-size: 44px;
+}
+}
+
+@media screen and (max-width:1280px) and (max-height:1024px) {
+    .founder-caption p {
+        font-size: 19px
+    }
+    .navbar {
+        padding-top: 3%;
+        padding-bottom: 2%
+    }
+    .navbar-brand img {
+        width: 70%;
+        margin-top: -5%
+    }
+    .carousel-item {
+        margin-top: 7%
+    }
+    .navbar-light .navbar-nav .nav-link {
+        font-size: 19px
+    }
+    .carousel-caption {
+        top: 25%
+    }
+    .carousel-indicators {
+        top: 85%
+    }
+    .our-story {
+        margin-top: 0
+    }
+    .our-story-caption h2 {
+        font-size: 100px;
+        padding-top: 0
+    }
+    .btn.btn-outline-secondary {
+        font-size: 16px
+    }
+    .founders h2 {
+        font-size: 42px;
+        padding-top: 10%
+    }
+    .founder1 h5,
+    .founder2 h5 {
+        font-size: 25px;
+        left: 36%;
+        top: -1%
+    }
+    .founders {
+        padding-top: 7%
+    }
+    .nav-tabs {
+        padding-top: 4%;
+        margin-left: 0;
+        padding-bottom: 4%
+    }
+    .tab {
+        margin-left: 0
+    }
+    .tab button {
+        font-size: 16px
+    }
+}
+@media screen and (max-width:1280px) and (max-height:778px){
+	.founder1 p, .founder2 p {
+    font-size: 14px;
+    margin-left: 0;
+}
+}
+@media screen and (max-width:1280px) and (max-height:610px) {
+    .navbar-light .navbar-nav .nav-link {
+        font-size: 16px
+    }
+    .carousel-indicators {
+        top: 92%
+    }
+    .navbar-brand img {
+        width: 60%;
+        margin-top: -5%
+    }
+    .navbar-nav {
+        margin-top: -1%
+    }
+    .navbar {
+        padding-top: 2%;
+        padding-bottom: 1%
+    }
+    .our-story {
+
+        margin-top: 0
+    }
+    .logo {
+        width: 55%
+    }
+	.collabration .collabration-subpara {
+    font-size: 38px;
+    line-height: 50px;
+    padding-top: 3%;
+}
+    .carousel-caption .btn.btn-outline-dark {
+        font-size: 12px;
+        padding-top: 1%;
+        padding-bottom: 1%;
+        width: auto
+    }
+    .carousel-caption p {
+        font-size: 16px;
+        padding-top: 2%
+    }
+    .carousel-caption {
+        bottom: -2%
+    }
+    .story-rect {
+        width: 5%;
+        margin-top: -5.7%
+    }
+    .our-story-caption h2 {
+        font-size: 91px
+    }
+    .rft-caption .btn.btn-outline-dark {
+        font-size: 18px;
+        margin-top: 80%
+    }
+    .founder-caption p {
+        font-size: 19px
+    }
+    .founder1 p,
+    .founder2 p {
+        font-size: 13px;
+        margin-left: 0
+    }
+    .founder1 h5,
+    .founder2 h5 {
+        font-size: 23px;
+        left: 36%;
+        top: -1%
+    }
+    .collabration .main-heading,
+    .our-brand-caption h3,
+    .our-brand-caption h4 {
+        font-size: 36px
+    }
+    .our-brand-caption p {
+        font-size: 20px
+    }
+    .collabration-map {
+        margin-top: 24%
+    }
+	.our-story-slider .carousel-inner {
+    width: 122%;
+    margin-top: 27%;
+}
+	.social {
+    margin-top: -2%;
+}
+}
+
+@media screen and (max-width:1240px) {
+    .navbar-light .navbar-nav .nav-link {
+        font-size: 18px
+    }
+    .carousel-indicators {
+        top: 92%
+    }
+    .navbar-brand img {
+        width: 60%;
+        margin-top: -3%
+    }
+    .navbar {
+        padding-top: 2%;
+        padding-bottom: 2%
+    }
+    .carousel-caption {
+        bottom: 13%
+    }
+    .our-story {
+        margin-top: 0
+    }
+    .carousel-caption {
+        bottom: 16%
+    }
+    .our-story-caption h2 {
+        font-size: 100px;
+        padding-top: 0;
+        margin-top: 3%
+    }
+    .rft-caption h3 {
+        font-size: 38px;
+        padding-top: 32%
+    }
+    .btn.btn-outline-dark {
+        font-size: 18px;
+        margin-top: 10%
+    }
+    .our-brand-caption p {
+        font-size: 20px
+    }
+    .btn.btn-outline-secondary {
+        font-size: 14px
+    }
+    .collabration .collabration-para {
+        font-size: 18px
+    }
+    .collabration .collabration-subpara {
+    font-size: 36px;
+    line-height: 48px;
+}
+    .collabration a.promise-btn {
+        font-size: 18px
+    }
+    .contact-title {
+        font-size: 36px;
+        padding-top: 3%
+    }
+    .btn.btn-outline-primary {
+        font-size: 18px
+    }
+    .footer a,
+    .footer p {
+        font-size: 12px;
+        color: #fff
+    }
+    .sub-footer a,
+    .sub-footer h6 {
+        font-size: 13px
+    }
+    .founder-caption p {
+        font-size: 22px
+    }
+    .founder1 h5,
+    .founder2 h5 {
+        font-size: 24px;
+        left: 35%;
+        top: 0
+    }
+    .tab {
+        margin-left: 1%
+    }
+    .tab button {
+        font-size: 14px
+    }
+}
+@media screen and (max-width:1140px){
+	#contactus input[type=text], #contactus input[type=email], #contactus input[type=tel], #contactus textarea {
+    width: 75%;
+}
+}
+@media screen and (max-width:1024px) {
+    .navbar-nav>li {
+        float: left;
+        margin-right: 18px
+    }
+    .navbar-brand img {
+        width: 50%;
+        margin-top: 0
+    }
+    .navbar-light .navbar-nav .nav-link {
+        font-size: 16px
+    }
+    .carousel-caption {
+        bottom: 27%
+    }
+/*
+    .carousel-indicators {
+        left: 55%
+    }
+*/
+    .our-story {
+        margin-top: 0
+    }
+    .our-story-slider .carousel-inner {
+        width: 122%;
+        margin-top: 27%
+    }
+    .carousel-caption .btn.btn-outline-dark {
+        font-size: 14px;
+        width: auto
+    }
+    .our-story-caption h2 {
+        font-size: 82px;
+        padding-top: 0;
+        padding-left: 0
+    }
+    .rft-caption h3 {
+        font-size: 30px;
+        padding-top: 32%
+    }
+    .btn.btn-outline-dark {
+        font-size: 16px;
+        margin-top: 10%
+    }
+    .flex-caption {
+        line-height: 22px;
+        font-size: 16px
+    }
+    .collabration .main-heading,
+    .our-brand-caption h3,
+    .our-brand-caption h4 {
+        font-size: 30px
+    }
+    .our-brand-caption p {
+        font-size: 18px
+    }
+    .btn.btn-outline-secondary {
+        font-size: 12px
+    }
+    .collabration .collabration-para {
+        font-size: 16px
+    }
+    .collabration .collabration-subpara {
+    font-size: 30px;
+    line-height: 40px;
+}
+    .collabration a.promise-btn {
+        font-size: 16px
+    }
+    .contact-title {
+        font-size: 32px
+    }
+    .btn.btn-outline-primary {
+        font-size: 16px
+    }
+    .footer a,
+    .footer p {
+        font-size: 11px;
+        color: #fff
+    }
+    .img-location {
+        width: 10%
+    }
+    .sub-footer a,
+    .sub-footer h6 {
+        font-size: 12px
+    }
+    .logo {
+        width: 60%
+    }
+    .founder-caption p {
+        font-size: 16px;
+        line-height: 19px
+    }
+    .col-list-title {
+        font-size: 24px!important;
+        padding-top: 10%
+    }
+    .col-list {
+        font-size: 16px!important
+    }
+    .collarabtion-expand {
+        padding-top: 6%!important;
+        padding-bottom: 6%!important;
+        padding-left: 6%;
+        padding-right: 6%
+    }
+    .founders h2 {
+        font-size: 40px
+    }
+    .founder1 h5,
+    .founder2 h5 {
+        font-size: 20px;
+        left: 35%;
+        top: -1%
+    }
+    .founder1 p,
+    .founder2 p {
+        font-size: 15px
+    }
+    .nav-tabs {
+        padding-top: 4%;
+        margin-left: -6%;
+        padding-bottom: 4%
+    }
+    .tab {
+        margin-left: -3%
+    }
+    .tab button {
+        font-size: 14px
+    }
+}
+@media screen and (max-width:1000px) {
+	.tab button {
+        background-color: #f1f1f1;
+        float: left;
+        border: none;
+        outline: 0;
+        cursor: pointer;
+        padding: 5px 30px;
+        transition: .3s;
+        font-size: 15px;
+        margin-right: 2%;
+        font-family: tajawalregular;
+    }
+	 .navbar-toggler {
+        position: absolute;
+        top: 0;
+        margin-top: 4%;
+		left: 3%;
+    }
+    .navbar-brand img {
+		
+		margin-top: 2% !important;
+        margin-left: 28% !important;
+		width: 50% !important;
+    }
+	#contactus input[type=text], #contactus input[type=email], #contactus input[type=tel], #contactus textarea {
+    width: 75%;
+}
+}
+@media screen and (max-width: 900px) and (max-height: 1600px){
+	.tab button {
+        background-color: #f1f1f1;
+        float: left;
+        border: none;
+        outline: 0;
+        cursor: pointer;
+        padding: 5px 30px;
+        transition: .3s;
+        font-size: 15px;
+        margin-right: 2%;
+        font-family: tajawalregular;
+    }
+    .navbar-toggler {
+        position: absolute;
+        top: 0;
+        margin-top: 4%;
+		left: 3%;
+    }
+    .navbar-brand img {
+		
+		margin-top: 2% !important;
+        margin-left: 28% !important;
+		width: 50% !important;
+    }
+	.navbar-nav{
+		padding-left: 2%;
+    	padding-top: 3%;
+	}
+	.navbar{
+		padding: 2% !important;
+	}
+	#map{
+		margin-top: 10%;
+	}
+	.collabration .collabration-subpara {
+    font-size: 34px;
+}
+	#contactus input[type=text], #contactus input[type=email], #contactus input[type=tel], #contactus textarea {
+    width: 90%;
+}
+}
+@media screen and (max-width:800px) {
+    .tab button {
+        background-color: #f1f1f1;
+        float: left;
+        border: none;
+        outline: 0;
+        cursor: pointer;
+        padding: 5px 30px;
+        transition: .3s;
+        font-size: 15px;
+        margin-right: 2%;
+        font-family: tajawalregular
+    }
+	.collabration .collabration-subpara {
+    font-size: 28px;
+}
+    .navbar-toggler {
+        position: absolute;
+        top: 0;
+        margin-top: 4%
+    }
+    .navbar-brand img {
+        margin-left: 26%;
+		width: 50% !important;
+    }
+    .navbar-nav>li>a {
+        padding-top: 10px;
+        padding-bottom: 15px
+    }
+    .navbar-light .navbar-nav .nav-link {
+        font-size: 20px;
+        padding-left: 0
+    }
+    .navbar-nav {
+        padding-top: 2%;
+        padding-bottom: 2%
+    }
+    .carousel-caption .btn.btn-outline-dark {
+        font-size: 12px;
+        width: auto
+    }
+    .btn.btn-outline-primary {
+        width: auto;
+/*        margin-left: 45%*/
+    }
+    .carousel-caption {
+        bottom: 0
+    }
+    .banner-social {
+        width: 5%
+    }
+    .contact-title {
+        font-size: 32px;
+        padding-top: 2%
+    }
+    .btn.btn-outline-secondary {
+        width: auto
+    }
+    .rft-caption h3 {
+        font-size: 23px;
+        padding-top: 20%;
+        line-height: 29px
+    }
+/*
+    .carousel-indicators {
+        left: 54%
+    }
+*/
+    .carousel-item {
+        animation: circle 2s;
+        clip-path: circle(75%);
+        height: auto;
+        width: 100%
+    }
+    .our-story {
+        margin-top: 0
+    }
+    .our-story-caption h2 {
+        font-size: 60px
+    }
+    .our-story-slider .carousel-inner {
+        width: 122%;
+        margin-top: 30%
+    }
+    .founders h2 {
+        font-size: 30px
+    }
+    .rft-caption .btn.btn-outline-dark {
+        font-size: 18px
+    }
+    .founder-caption p {
+        font-size: 15px;
+        line-height: 18px
+    }
+    .founder1 p,
+    .founder2 p {
+        font-size: 11px
+    }
+    .expand-less-btn {
+        font-size: 18px
+    }
+    .carousel-indicators .active {
+        border-radius: 99%;
+        width: 15px;
+        height: 15px
+    }
+    .carousel-indicators li {
+        border-radius: 99%;
+        width: 15px;
+        height: 15px
+    }
+    .nav-tabs {
+        padding-top: 8%;
+        margin-left: -17%;
+        padding-bottom: 6%
+    }
+    .tab {
+        margin-left: -1%;
+        margin-top: 5%;
+        margin-bottom: 2%
+    }
+	.social {
+    width: 15%;
+    margin-top: -5%;
+}
+	#contactus label {
+    
+    font-size: 10px;
+ 
+}
+	.update {
+    
+    margin-top: -4.9%;
+}
+}
+
+@media screen and (max-width:768px) {
+    .founder-caption p {
+        font-size: 14px;
+        line-height: 14px
+    }
+	.collabration .collabration-subpara {
+    font-size: 23px;
+    line-height: 28px;
+		padding-bottom: 3%;
+}
+    .our-story-slider .carousel-inner {
+        width: 122%;
+        margin-top: 28%
+    }
+    .our-story-caption h2 {
+        font-size: 62px;
+        padding-top: 0;
+        padding-left: .5%
+    }
+    .rft-caption h3 {
+        font-size: 24px;
+        padding-top: 30%
+    }
+    .flex-direction-nav a {
+        top: 42%
+    }
+    .carousel-caption {
+        bottom: -2%
+    }
+/*
+    .carousel-indicators {
+        left: 54%
+    }
+*/
+    .flex-carousal {
+        top: 29%;
+        width: 7.15%
+    }
+    .founders h2 {
+        font-size: 32px
+    }
+    .founder1 p,
+    .founder2 p {
+        font-size: 10px
+    }
+    .founder1 h5,
+    .founder2 h5 {
+        font-size: 16px;
+        left: 35%;
+        top: -2%
+    }
+    .collabration .main-heading,
+    .our-brand-caption h3,
+    .our-brand-caption h4 {
+        font-size: 28px
+    }
+    .expand-less-btn {
+        font-size: 20px
+    }
+    .btn.btn-outline-secondary {
+        font-size: 16px;
+        width: auto
+    }
+	.blue-rect {
+    
+    bottom: -3%;
+}
+	.contact {
+    padding-bottom: 4%;
+}
+    .contact-title {
+        font-size: 32px;
+        padding-top: 2%
+    }
+    .btn.btn-outline-primary {
+        font-size: 20px;
+        width: auto;
+    }
+		#contactus label {
+    font-size: 12px;
+}
+	
+#contactus input[type=text] {
+    font-size: 12px;
+}
+#contactus textarea {
+    font-size: 12px;
+}
+}
+@media screen and (max-width:750px){
+	.update {
+    margin-top: -0.9%;
+}
+	#contactus input[type=text], #contactus input[type=email], #contactus input[type=tel], #contactus textarea {
+    width: 100%;
+}
+}
+@media screen and (max-width:600px) {
+    .carousel-indicators {
+        left: 2%
+    }
+	.sub-footer .update{
+		margin-top: -2%;
+	}
+	.img-footer-logo {
+    width: 60%;
+    padding-bottom: 5%;
+}
+	.banner-social {
+    width: 7%;
+}
+#contactus input[type=text], #contactus input[type=email], #contactus input[type=tel], #contactus textarea {
+    width: 100%;
+}
+}
+@media screen and (max-width:584px){
+	.offset-sm-3 {
+    margin-left: 18%;
+}
+	#contactus input[type=text], #contactus input[type=email], #contactus input[type=tel], #contactus textarea  {
+    width: 100%;
+}
+	.img-footer-logo {
+    width: 44%;
+    padding-bottom: 5%;
+}
+	.img-location {
+    width: 8%;
+}
+.social {
+    width: 8%;
+    margin-top: 0%;
+}
+}
+@media screen and (max-width:570px){
+	.social {
+    width: 7%;
+    margin-top: -1%;
+    margin-left: 2%;	
+}
+	#contactus input[type=text], #contactus input[type=email], #contactus input[type=tel], #contactus textarea  {
+    width: 100%;
+}
+	.our-story-slider .carousel-inner {
+    width: 122%;
+    margin-top: 27%;
+}
+.rft-caption .btn.btn-outline-dark {
+    font-size: 14px;
+}
+.btn.btn-outline-secondary {
+    font-size: 13px;
+    width: auto;
+}
+.btn.btn-outline-primary {
+    font-size: 15px;
+    width: auto;
+}
+}
+@media screen and (max-width:480px) {
+
+    .tab button {
+        background-color: #f1f1f1;
+        float: left;
+        border: none;
+        outline: 0;
+        cursor: pointer;
+        padding: 5px 30px;
+        transition: .3s;
+        font-size: 15px;
+        margin-right: 2%;
+        font-family: tajawalregular
+    }
+	#map svg {
+    margin-top: 9%;
+    margin-bottom: 5%;
+    width: 100%;
+    margin-left: 22%;
+    padding-top: 5%;
+    padding-bottom: 20%;
+}
+	#map svg:last-child{
+		display: none;
+	}
+    .fade:not(.show) {
+        opacity: 1!important
+    }
+    .collapse {
+        display: block
+    }
+    .our-story-slider .carousel-inner {
+        width: 122%;
+        margin-top: 16%
+    }
+    .our-brands,
+    .our-founder {
+        margin-top: -8%
+    }
+    .founders {
+        padding-top: 7%;
+        padding-bottom: 15%
+    }
+    .rft-caption .btn.btn-outline-dark {
+        font-size: 13px;
+        margin-top: 78%;
+        margin-left: 32%
+    }
+    .our-story-caption {
+        padding-left: 0;
+        display: flex;
+        background-size: 100%;
+        margin-left: 5%
+    }
+    .carousel-indicators .active {
+        width: 25px;
+        height: 8px;
+        margin: 3px;
+        background-color: #02489b;
+        border-radius: 99%
+    }
+    .carousel-indicators li {
+        width: 25px;
+        height: 8px;
+        margin: 3px;
+        border-radius: 99%
+    }
+    .f-caption {
+        width: 100%;
+        padding: 2%;
+        left: 0;
+        bottom: 0;
+        color: #fff;
+        text-shadow: 0 -1px 0 rgba(0, 0, 0, .3);
+        font-size: 14px;
+        line-height: 18px;
+        font-family: tajawalregular;
+        margin-bottom: 0
+    }
+    .f-carousal-caption {
+        position: absolute;
+        top: 71%;
+        width: 6.15%;
+        margin-left: -4%;
+        background-color: #0000004d;
+        padding-bottom: 1%
+    }
+    .nav-tabs>li>a {
+        margin-right: 2px;
+        line-height: 1.42857143;
+        border-radius: 4px 4px 0 0;
+        font-size: 9px;
+        text-transform: uppercase
+    }
+    .carousel-item {
+        animation: circle 2s;
+        clip-path: circle(75%);
+        height: 30vh;
+        width: 100%;
+        margin-top: 16%
+    }
+    .footer a,
+    .footer p {
+        font-size: 14px;
+        color: #fff
+    }
+    .sub-footer a,
+    .sub-footer h6 {
+        font-size: 14px;
+        padding-left: 0%;
+        padding-right: 5%;
+		line-height: 22px;
+    }
+    .blue-rect {
+        display: none
+    }
+    .navbar-light .navbar-nav .nav-link {
+        font-size: 17px;
+        line-height: 10px
+    }
+    .flex-caption {
+        width: 100%;
+        padding: 2%;
+        left: 0;
+        bottom: 0;
+        line-height: 12px;
+        font-size: 13px;
+        margin-bottom: 0
+    }
+    .collabration .main-heading,
+    .our-brand-caption h3,
+    .our-brand-caption h4 {
+        font-size: 28px
+    }
+    .collabration {
+        background-image: url(../images/partner-mobile.png);
+        background-repeat: no-repeat;
+        background-position: center;
+        background-size: cover;
+        margin-top: -8%;
+        padding-bottom: 8%
+    }
+    .collabration .collabration-subpara {
+    font-size: 30px;
+    padding-bottom: 2%;
+    line-height: 36px;
+}
+	.collabration .collabration-para {
+    font-size: 18px;
+}
+    .collabration-lft {
+        padding-left: 6%;
+        padding-top: 9%;
+        padding-bottom: 19%
+    }
+    .collabration-map {
+        position: relative;
+        margin-top: -15%
+    }
+    .btn.btn-outline-primary {
+        font-size: 17px;
+        width: auto
+    }
+    .collabration a.promise-btn {
+        padding: 4px;
+        padding-left: 11px;
+        padding-right: 11px;
+        font-size: 15px;
+        cursor: pointer
+    }
+    .flex-caption {
+        width: 100%;
+        padding: 2%;
+        left: 0;
+        bottom: 0;
+        line-height: 10px;
+        font-size: 10px;
+        margin-bottom: 0
+    }
+    .founder-caption p {
+        font-size: 17px;
+        padding-top: 0;
+        padding-bottom: 0;
+        line-height: 22px
+    }
+    .img-founder-1,
+    .img-founder-2 {
+        margin-left: 0;
+        margin-top: 5%
+    }
+    .founder1 p,
+    .founder2 p {
+        font-size: 17px;
+        padding-bottom: 5%
+    }
+    .expand-less-btn {
+        font-size: 16px
+    }
+    .contact {
+        padding-top: 3%;
+        padding-bottom: 5%
+    }
+    .founders h2 {
+        font-size: 30px;
+        padding-top: 0;
+        padding-bottom: 5%
+    }
+    .expand-less-btn {
+        font-size: 18px
+    }
+    .founder1 h5,
+    .founder2 h5 {
+        font-size: 24px;
+        left: 35%;
+        top: 1%
+    }
+    .img-footer-logo {
+        width: 40%;
+        margin-bottom: 10%
+    }
+    .footer p {
+        padding-left: 14%;
+        padding-top: 1%
+    }
+    .img-location {
+        width: 8%
+    }
+    .flex-carousal {
+        position: absolute;
+        top: 60%;
+        width: 100%;
+        margin-left: 0;
+        background-color: #0000004d
+    }
+    .btn.btn-outline-secondary {
+        font-size: 13px;
+        width: auto;
+    }
+    .our-brand-caption h3 {
+        font-size: 21px
+    }
+    .our-brand-caption p {
+        font-size: 12px
+    }
+    .our-brand-caption h4 {
+        font-size: 16px;
+        padding-top: 0
+    }
+    .navbar-toggler {
+    top: 0;
+    margin-top: 5%;
+    font-size: 15px;
+    left: 4%;
+}
+    .logo {
+        width: 150%;
+        margin-left: 86%;
+        padding-top: 20%
+    }
+    .carousel-caption .btn.btn-outline-dark {
+        font-family: tajawalregular;
+        font-size: 8px
+    }
+    .carousel-caption {
+        bottom: 35%;
+        top: 12%
+    }
+    .carousel-caption p {
+        font-family: tajawalregular;
+        color: #000;
+        font-size: 11px;
+        padding-top: 3%
+    }
+	#map {
+    margin-top: -15%;
+}
+    .rft-caption h3 {
+        font-family: merriweatherregular;
+        color: #fff;
+        font-size: 14px;
+        text-transform: uppercase;
+        padding-top: 13%;
+        line-height: 23px
+    }
+    .btn.btn-outline-dark {
+        font-size: 13px;
+        border: 1px solid #000;
+        color: #000;
+        margin-top: 66%
+    }
+    .flexslider-carousel {
+        position: absolute!important;
+        width: 36%!important;
+        top: 59%!important;
+        right: -74%!important
+    }
+    .flex-direction-nav a:before {
+        font-family: flexslider-icon;
+        font-size: 25px;
+        display: inline-block
+    }
+    .flex-direction-nav a {
+        top: 52%
+    }
+    .our-story-caption h2 {
+        position: relative;
+        font-family: merriweatherregular;
+        color: #eaeaea;
+        font-size: 37px;
+        margin-top: 3%
+    }
+    .carousel-indicators {
+        top: 93%;
+        left: 31%;
+        width: 60px
+    }
+    .flexslider-carousel {
+        position: absolute!important;
+        width: 36%!important;
+        top: 62%!important;
+        right: -86%!important;
+        margin-right: 14%;
+        background-color: #0000004d
+    }
+    .carousel-caption .btn.btn-outline-dark {
+        width: auto;
+    }
+    .contact-title {
+        font-size: 23px;
+        padding-top: 3%
+    }
+    .clmn-full {
+        width: 100%!important;
+        display: flex!important
+    }
+    .wd-clm {
+        width: 50%!important
+    }
+    .carousel-control-prev {
+        left: 0;
+        top: -15%
+    }
+    .carousel-control-next {
+        right: -22%;
+        top: -15%
+    }
+    .footer {
+        padding-left: 4%
+    }
+    .social {
+    width: 7%;
+    margin-left: 3%;
+    margin-top: -2%;
+}
+    .rght-padd {
+        padding-right: 0
+    }
+    .our-story {
+        margin-top: 0;
+        padding-right: 3%
+    }
+    .nav-tabs {
+        padding-top: 8%;
+        margin-left: 10%;
+        padding-bottom: 6%
+    }
+    #London,
+    #Paris,
+    #Tokyo {
+        margin-left: 7%
+    }
+    #contactus input[type=text], #contactus input[type=email], #contactus input[type=tel], #contactus textarea {
+        width: 92%
+    }
+    #contactus textarea {
+        height: 100px;
+        width: 92%
+    }
+    .no-gutters {
+        padding-left: 0;
+        padding-right: 0
+    }
+    .navbar-brand img {
+        width: 44%!important;
+        margin-top: 3% !important;
+    }
+    .navbar {
+        padding-top: 2%!important;
+        padding-bottom: 2%!important;
+        padding-left: 2%!important;
+        padding-right: 2%!important
+    }
+    .tab {
+        margin-left: 10%;
+        margin-top: 8%;
+        margin-bottom: 5%
+    }
+    .tab button {
+        font-size: 18px
+    }
+    .navbar-nav {
+        padding-top: 2%;
+        padding-bottom: 2%;
+        padding-left: 5%
+    }
+	.map-background{
+		margin-left: -6%;
+	}
+	.collarabtion-expand {
+    padding-top: 16%!important;
+    padding-bottom: 12%!important;
+    padding-left: 6%;
+    padding-right: 6%;
+}
+	hr {
+    border: .5px solid #f4f4f41f;
+    width: 123%;
+    margin-left: -11%;
+}
+	.banner-social {
+    width: 6%;
+    margin-top: -1%;
+}
+	.offset-sm-3 {
+    margin-left: -1%;
+}
+}
+@media screen and (max-width: 414px) and (max-height: 896px){
+	.carousel-item {
+    height: 26vh;
+    width: 100%;
+    margin-top: 16%;
+}
+	.our-brands, .our-founder {
+    margin-top: -11%;
+}
+	.collabration {
+    margin-top: -11%;
+    padding-bottom: 8%;
+}
+	.btn.btn-outline-secondary {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 24px;
+    padding-right: 24px;
+}
+	.btn.btn-outline-primary {
+        font-size: 16px;
+		padding: 8px 24px 8px 24px;
+    }
+	.sub-footer a{
+		padding-left: 0%;
+	}
+	.tab {
+    margin-left: 5%;
+    margin-top: 8%;
+    margin-bottom: 5%;
+}
+	.tab button {
+    font-size: 16px;
+}
+}
+@media screen and (max-width:414px)and (max-height: 736px) {
+    .navbar-brand img {
+        width: 40%!important;
+        margin-top: 0!important;
+        margin-left: 26%!important
+    }
+    .our-story {
+        margin-top: 0;
+        padding-right: 4%
+    }
+    .our-brands,
+    .our-founder {
+        margin-top: -1.2%
+    }
+    .rft-caption .btn.btn-outline-dark {
+        font-size: 12px;
+        margin-top: 80%;
+        margin-left: 32%
+    }
+    .img-founder-1,
+    .img-founder-2 {
+        margin-left: 0;
+        margin-top: 0;
+        padding: 6%
+    }
+    .founder1 p,
+    .founder2 p {
+        font-size: 16px;
+        padding-bottom: 0;
+        margin-top: -7%
+    }
+    .collabration-map {
+        bottom: 0;
+        margin-top: 0
+    }
+    .navbar-light .navbar-nav .nav-link {
+        font-size: 15px
+    }
+    .collabration .collabration-para {
+        font-size: 17px
+    }
+    .rft-caption h3 {
+        font-size: 12px;
+        padding-top: 7%;
+        line-height: 23px
+    }
+    .btn.btn-outline-dark {
+        font-size: 13px;
+        border: 1px solid #000;
+        color: #000;
+        margin-top: 66%
+    }
+    .navbar-brand {
+        float: left;
+        height: 50px;
+        padding: 15px 15px;
+        font-size: 18px;
+        line-height: 20px;
+        width: 85%
+    }
+    .flex-caption {
+        width: 100%;
+        padding: 2%;
+        left: 0;
+        bottom: 0;
+        line-height: 9px;
+        font-size: 8px;
+        margin-bottom: 0
+    }
+    .flex-direction-nav .flex-prev {
+        left: auto;
+        right: 10px;
+        display: none
+    }
+    .flex-direction-nav .flex-next {
+        right: auto;
+        left: 10px;
+        display: none
+    }
+    .carousel-caption .btn.btn-outline-dark {
+        width: 22%;
+        font-size: 7px
+    }
+    .carousel-caption p {
+        font-size: 11px;
+        padding-top: 4%
+    }
+    .our-story-caption h2 {
+        font-size: 32px;
+        margin-top: 3%
+    }
+    .flexslider-carousel {
+        width: 41%!important;
+        top: 57%!important
+    }
+    .founder-caption p {
+        font-size: 16px
+    }
+    .founders h2 {
+        font-size: 26px;
+        padding-top: 5%;
+        padding-bottom: 2%;
+        margin-top: 0
+    }
+    .founder1 h5 {
+        font-size: 22px;
+        left: 34%;
+        top: 0
+    }
+    .founder2 h5 {
+        font-size: 22px;
+        left: 34%;
+        top: 3%
+    }
+    .founder2 {
+        margin-top: 5%
+    }
+    .expand-less-btn {
+        font-size: 14px
+    }
+    .our-brand-caption p {
+        font-size: 15px
+    }
+    .our-brand-caption h4 {
+        font-size: 21px
+    }
+    .collabration-map {
+        margin-top: -12%
+    }
+    .btn.btn-outline-primary {
+/*        margin-left: 36%;*/
+        font-size: 16px;
+		padding: 8px 24px 8px 24px;
+    }
+    .nav-tabs {
+        padding-top: 8%;
+        margin-left: 10%;
+        padding-bottom: 6%
+    }
+    #contactus input[type=text] {
+        width: 92%
+    }
+    .collabration {
+        margin-top: -1.5%;
+        padding-bottom: 8%
+    }
+    .tab {
+        margin-left: 7%;
+        margin-top: 8%;
+        margin-bottom: 5%
+    }
+    .tab button {
+        font-size: 15px
+    }
+    .tab-content {
+        margin-left: 5%
+    }
+    .navbar-toggler {
+        top: 0;
+        margin-top: 4%;
+        left: 6%
+    }
+	.btn.btn-outline-secondary {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 24px;
+    padding-right: 24px;
+}
+	.contact {
+    padding-top: 3%;
+    padding-bottom: 6%;
+}
+	.sub-footer a{
+		padding-left: 0%;
+	}
+	#London, #Paris, #Tokyo {
+    margin-left: 1%;
+}
+	#contactus input[type=email],
+    #contactus input[type=tel],
+    #contactus input[type=text] {
+        width: 100%
+    }
+}
+
+@media screen and (max-width:412px) {
+    .navbar-light .navbar-nav .nav-link {
+        font-size: 14px;
+        line-height: 0
+    }
+	.carousel-item {
+    height: 32vh;
+    width: 100%;
+    margin-top: 16%;
+}
+    .navbar-nav>li>a {
+        padding-top: 15px;
+        padding-bottom: 15px
+    }
+    .our-brands,
+    .our-founder {
+        margin-top: -8.5%
+    }
+    .our-story-caption h2 {
+        font-size: 22px
+    }
+    .carousel-caption {
+        bottom: 31%
+    }
+    .carousel-indicators {
+        bottom: 33%
+    }
+    .founders h2 {
+        font-size: 24px;
+        padding-top: 5%;
+        padding-bottom: 2%;
+        margin-top: 0
+    }
+    .founder-caption p {
+        font-size: 15px;
+        line-height: 20px
+    }
+    .founder1 p,
+    .founder2 p {
+        font-size: 15px;
+        padding-bottom: 0;
+        margin-top: -7%
+    }
+    .rft-caption .btn.btn-outline-dark {
+        font-size: 11px;
+        margin-top: 80%;
+        margin-left: 32%
+    }
+    .our-story-caption h2 {
+        font-size: 33px;
+        padding-left: 0
+    }
+    .flexslider {
+        width: 126%;
+        margin-top: -7%;
+        padding: 0
+    }
+    .sub-footer a,
+    .sub-footer h6 {
+        font-size: 14px;
+        padding-left: 6%;
+        padding-right: 6%
+    }
+    .col-list-title {
+        font-size: 20px!important;
+        padding-top: 5%
+    }
+    .col-list {
+        font-size: 16px!important
+    }
+    .nav-tabs {
+        padding-top: 8%;
+        margin-left: 5%;
+        padding-bottom: 6%
+    }
+    #contactus input[type=text], #contactus input[type=email], #contactus input[type=tel], #contactus textarea  {
+        width: 92%
+    }
+    .collabration {
+        margin-top: -8.5%;
+        padding-bottom: 8%
+    }
+	.btn.btn-outline-secondary {
+    padding-top: 8px;
+    padding-bottom: 8px;
+    padding-left: 16px;
+    padding-right: 16px;
+    font-size: 12px;
+}
+	.btn.btn-outline-primary {
+    font-size: 14px;
+    padding: 8px 24px 8px 24px;
+}
+	.sub-footer a{
+		padding-left: 0%;
+	}
+}
+@media screen and (max-width: 393px) and (max-height: 768px){
+	.carousel-item {
+    height: 28vh;
+    width: 100%;
+    margin-top: 16%;
+}
+	.collabration {
+    margin-top: -9%;
+    padding-bottom: 8%;
+}
+}
+@media screen and (max-width:384px) {
+    .btn.btn-outline-dark {
+        font-size: 9px
+    }
+    .rft-caption h3 {
+        font-size: 10px;
+        padding-top: 0;
+        line-height: 23px
+    }
+	.carousel-item {
+    height: 32vh;
+    width: 100%;
+    margin-top: 16%;
+}
+    .sub-footer a,
+    .sub-footer h6 {
+        font-size: 15px
+    }
+    .carousel-caption .btn.btn-outline-dark {
+        width: 27%
+    }
+    .our-story-caption h2 {
+        font-size: 31px;
+        padding-left: 1%
+    }
+    .founder-caption p {
+        font-size: 15px
+    }
+    .founders h2 {
+        font-size: 28px
+    }
+    .founder1 h5 {
+        font-size: 20px;
+        left: 34%;
+        top: 0
+    }
+    .founder2 h5 {
+        font-size: 20px;
+        left: 34%;
+        top: 3%
+    }
+    .col-list-title {
+        font-size: 18px!important;
+        padding-top: 5%
+    }
+    .col-list {
+        font-size: 15px!important
+    }
+    .contact-title {
+        font-size: 21px;
+        padding-top: 0
+    }
+    .btn.btn-outline-primary {
+/*        margin-left: 36%;*/
+        font-size: 15px
+    }
+    .footer a,
+    .footer p {
+        font-size: 13px
+    }
+    .social {
+        width: 8%;
+        margin-left: 4%
+    }
+    .sub-footer a,
+    .sub-footer h6 {
+        font-size: 14px;
+        line-height: 22px
+    }
+    .img-footer-logo {
+        width: 45%;
+        margin-bottom: 5%
+    }
+    .navbar-light .navbar-nav .nav-link {
+        font-size: 14px
+    }
+    .collabration .main-heading,
+    .our-brand-caption h3,
+    .our-brand-caption h4 {
+        font-size: 24px
+    }
+    .collabration .collabration-para {
+        font-size: 15px
+    }
+    .collabration a.promise-btn {
+        font-size: 14px
+    }
+    .nav>li>a {
+        padding: 1px 32px!important
+    }
+    .nav-tabs {
+        padding-top: 10%;
+        margin-left: 5%;
+        padding-bottom: 6%
+    }
+    .collabration {
+        margin-top: -8.5%;
+        padding-bottom: 5%
+    }
+    .tab {
+        margin-left: 6%;
+        margin-top: 15%;
+        margin-bottom: 5%
+    }
+    .tab button {
+        font-size: 14px
+    }
+    #London,
+    #Paris,
+    #Tokyo {
+        margin-left: 2%
+    }
+    #contactus input[type=text], #contactus input[type=email], #contactus input[type=tel], #contactus textarea  {
+        width: 97%
+    }
+    #contactus textarea {
+        height: 100px;
+        width: 97%
+    }
+	.btn.btn-outline-secondary {
+    padding-top: 8px;
+    padding-bottom: 8px;
+    padding-left: 16px;
+    padding-right: 16px;
+    font-size: 11px;
+}
+}
+
+@media screen and (max-width:375px) and (max-height:812px) {
+    .carousel-item {
+        height: 24vh
+    }
+    .collabration-map {
+        bottom: 10%
+    }
+    .collabration {
+    margin-top: -6.5%;
+    padding-bottom: 5%;
+}
+.collabration .main-heading, .our-brand-caption h3, .our-brand-caption h4 {
+    font-size: 22px;
+}
+	.our-brands, .our-founder {
+    margin-top: -6.5%;
+}
+	.social {
+    width: 8%;
+    margin-left: 3%;
+    margin-top: -1%;
+}
+	.collabration .collabration-subpara {
+    font-size: 28px;
+    padding-bottom: 0%;
+}
+}
+
+@media screen and (max-width:375px) and (max-height:667px) {
+    .carousel-item {
+        height: 30vh
+    }
+    .navbar-light .navbar-nav .nav-link {
+        font-size: 14px
+    }
+    .our-brands,
+    .our-founder {
+        margin-top: -8.3%
+    }
+    .our-story-caption h2 {
+        font-size: 29px;
+        padding-left: 1%
+    }
+    .btn.btn-outline-primary {
+/*        margin-left: 35%;*/
+        font-size: 14px;
+        width: auto;
+    }
+    .flex-caption {
+        line-height: 8px;
+        font-size: 8px;
+        margin-bottom: 0
+    }
+    .flexslider {
+        margin-top: -6%
+    }
+    .flexslider-carousel {
+        width: 41%!important;
+        top: 62%!important
+    }
+    .collabration .main-heading,
+    .our-brand-caption h3,
+    .our-brand-caption h4 {
+        font-size: 22px
+    }
+    .carousel-indicators {
+        bottom: 36%
+    }
+    .carousel-caption {
+        bottom: 34%
+    }
+    .nav>li>a {
+        padding: 1px 30px!important
+    }
+    .tab-content {
+        margin-left: 5%
+    }
+    .collabration {
+        margin-top: -8.5%;
+        padding-bottom: 5%
+    }
+	.map-background{
+		margin-left: -6%;
+    margin-top: -15%;
+	}
+	.banner-social {
+    width: 6%;
+}
+}
+
+@media screen and (max-width:360px) {
+    .navbar-light .navbar-nav .nav-link {
+        font-size: 13px
+    }
+    .flex-caption {
+        width: 100%;
+        padding: 2%;
+        left: 0;
+        bottom: 0;
+        line-height: 7px;
+        font-size: 7px;
+        margin-bottom: 0
+    }
+    .carousel-indicators {
+        top: 92%;
+        left: 28%;
+        width: 60px
+    }
+    .rft-caption .btn.btn-outline-dark {
+        font-size: 10px;
+        margin-top: 80%;
+        margin-left: 32%
+    }
+    .founders h2 {
+        font-size: 24px
+    }
+    .founder-caption p {
+        font-size: 14px;
+        line-height: 18px
+    }
+	.collabration .collabration-subpara {
+    font-size: 26px;
+    padding-bottom: 0%;
+}
+    .founder1 p,
+    .founder2 p {
+        font-size: 14px;
+        padding-bottom: 0;
+        margin-top: -7%
+    }
+    .contact-title {
+        font-size: 21px;
+        padding-top: 2%
+    }
+    .tab button {
+        font-size: 12px
+    }
+    #contactus label {
+        font-size: 14px;
+    }
+}
+
+@media screen and (max-width:320px) {
+    .navbar-light .navbar-nav .nav-link {
+        font-size: 12px
+    }
+    .navbar-brand img {
+        width: 39%;
+        margin-top: 3%;
+        margin-left: 20%
+    }
+    .btn.btn-outline-primary {
+        font-size: 13px;
+        width: auto;
+    }
+    .btn.btn-outline-secondary {
+        font-size: 10px;
+        width: auto;
+        margin-top: 5%;
+    }
+    .navbar-nav {
+        padding-top: 0;
+        padding-bottom: 0
+    }
+    .our-story-caption h2 {
+        font-size: 22px;
+        padding-left: 0
+    }
+    .rft-caption h3 {
+        font-size: 9px;
+        padding-top: 6%;
+        line-height: 16px
+    }
+    .btn.btn-outline-dark {
+        font-size: 8px
+    }
+    .founder-caption p {
+        font-size: 12px;
+        line-height: 16px
+    }
+    .founders h2 {
+        font-size: 24px
+    }
+    .founder1 h5 {
+        font-size: 18px;
+        left: 34%;
+        top: 0
+    }
+    .founder2 h5 {
+        font-size: 18px;
+        left: 34%;
+        top: 3%
+    }
+    .collabration .main-heading,
+    .our-brand-caption h3,
+    .our-brand-caption h4 {
+        font-size: 20px
+    }
+    .our-brand-caption p {
+        font-size: 13px
+    }
+    .collabration .main-heading,
+    .our-brand-caption h3,
+    .our-brand-caption h4 {
+        font-size: 18px
+    }
+    .collabration .collabration-para {
+        font-size: 14px
+    }
+    .collabration .collabration-subpara {
+        font-size: 24px
+    }
+    .collabration a.promise-btn {
+        font-size: 13px
+    }
+    .col-list-title {
+        font-size: 16px!important;
+        padding-top: 5%
+    }
+    .col-list {
+        font-size: 13px!important
+    }
+    .contact-title {
+        font-size: 18px;
+        padding-top: 0
+    }
+    .footer a,
+    .footer p {
+        font-size: 12px
+    }
+    .sub-footer a,
+    .sub-footer h6 {
+        font-size: 11px;
+        line-height: 19px
+    }
+    .navbar-light .navbar-nav .nav-link {
+        font-size: 14px;
+        line-height: 0;
+        padding-left: 2%
+    }
+    .navbar {
+        padding-top: 2%;
+        padding-bottom: 0
+    }
+    .founder1 p,
+    .founder2 p {
+        font-size: 12px;
+        padding-bottom: 0;
+        margin-top: -7%
+    }
+    .nav>li>a {
+        padding: 1px 24px!important
+    }
+    .navbar-brand img {
+        width: 40%!important;
+        margin-top: 2%!important;
+        margin-left: 31%!important
+    }
+    .tab {
+        margin-left: 4%;
+        margin-top: 15%;
+        margin-bottom: 0
+    }
+	#contactus label {
+        font-size: 13px;
+    }
+	.tab button {
+    font-size: 10px;
+}
+/*
+	.navbar-toggler {
+    top: 0;
+    margin-top: 5%;
+    font-size: 12px;
+    left: 4%;
+*/
+}
